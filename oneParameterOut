@@ -1,0 +1,6639 @@
+8 2010
+Optimization terminated successfully.
+         Current function value: -1128882537768315367006935942430720.000000
+         Iterations: 52
+         Function evaluations: 293753
+1 Michigan State 3701.55219949
+2 Wisconsin 3663.19349724
+3 LSU 3604.13752043
+4 Ohio State 3594.17265199
+5 Oklahoma 3573.34474328
+6 Boise State 3570.900568
+7 Utah 3567.41587473
+8 Oklahoma State 3561.39487803
+9 TCU 3561.39487803
+10 Oregon 3561.39487803
+11 Missouri 3561.39487803
+12 Auburn 3559.46780373
+13 Florida State 3526.67808466
+14 Illinois 3524.7346623
+15 Stanford 3524.15913309
+16 Mississippi State 3507.4087087
+17 Virginia Tech 3492.71397557
+18 Miami (FL) 3425.63046624
+19 West Virginia 3218.9652188
+20 Arizona 38.0776057791
+21 Oregon State 38.071696369
+22 Nebraska 38.0413763649
+23 Kansas State 37.7383101629
+24 Iowa 37.6407423394
+25 Texas 37.5958626204
+26 Arizona State 37.3143379296
+27 USC 36.68037588
+28 Washington 36.5569796055
+29 Iowa State 36.3883416006
+30 UCLA 36.3052780627
+31 Alabama 36.1381079229
+32 Nevada 36.1078007533
+33 California 35.9336645157
+34 Michigan 35.9287306079
+35 East Carolina 35.8411102547
+36 Texas Tech 35.7924565708
+37 Baylor 35.7306044902
+38 North Carolina 35.726764848
+39 South Carolina 35.7053669759
+40 Air Force 35.6933727988
+41 San Diego State 35.3618239243
+42 Hawaii 35.3503968065
+43 Colorado 35.0498956877
+44 North Carolina State 35.045867715
+45 Arkansas 34.996080631
+46 Florida 34.9814198403
+47 Clemson 34.8758061101
+48 Brigham Young 34.8665259052
+49 Southern Miss 34.5213016492
+50 Wyoming 34.2459404215
+51 Notre Dame 34.1875531943
+52 Georgia Tech 34.1461820052
+53 Maryland 34.0244049238
+54 Kansas 33.984682022
+55 Northern Illinois 33.8551274183
+56 Kentucky 33.8023275519
+57 Penn State 33.6012198204
+58 Texas A&M 33.5123760143
+59 Ole Miss 33.2349554259
+60 Navy 33.1712014779
+61 Toledo 33.0051289433
+62 Fresno State 32.7341023263
+63 Georgia 32.1853811771
+64 Utah State 32.1685918572
+65 Louisiana Tech 32.0244708056
+66 Purdue 31.8025357045
+67 Pittsburgh 31.5204522963
+68 Southern Methodist 31.3968226779
+69 Temple 31.2947139628
+70 Northwestern 30.9611297909
+71 UCF 30.7181682006
+72 Cincinnati 30.3339824986
+73 Indiana 30.1445508601
+74 Vanderbilt 29.830446366
+75 Tulsa 29.5263729334
+76 Tennessee 29.2885599958
+77 Connecticut 29.2673252007
+78 Rutgers 29.1974944104
+79 Syracuse 28.7772588427
+80 Army 28.2617553563
+81 Louisville 28.0409302189
+82 Houston 27.9239587155
+83 Minnesota 27.5549919184
+84 Tulane 27.5172764588
+85 Rice 27.3145472433
+86 UTEP 26.8164076626
+87 UAB 26.4575172242
+88 Troy 26.2445466803
+89 Florida International 26.1467584977
+90 South Florida 26.0413981487
+91 Memphis 25.4583628595
+92 Middle Tennessee 24.5716926726
+93 Louisiana-Lafayette 24.5648077135
+94 Arkansas State 24.3612851638
+95 Louisiana-Monroe 23.8174196708
+96 Florida Atlantic 23.3084903235
+97 North Texas 23.2192923812
+98 Miami (OH) 21.1996595786
+99 Buffalo 17.7060274951
+100 Colorado State 12.0473432268
+101 Marshall 6.36480938945
+102 Ohio 6.36480468944
+103 Bowling Green 6.36478424542
+104 Idaho 2.87290253852
+105 Virginia -2.34590339366
+106 Washington State -5.9540961065
+107 Western Michigan -6.31272981603
+108 Central Michigan -15.4981598348
+109 Eastern Michigan -15.4982610471
+110 Ball State -15.4983625147
+111 Boston College -20.3018853546
+112 Wake Forest -56.6801392775
+113 San Jose State -95.4639340432
+114 Duke -98.1840207426
+115 New Mexico State -108.707739093
+116 Kent State -349.136752172
+117 Akron -387.683109224
+118 UNLV -592.216119534
+119 Western Kentucky -646.122975121
+120 New Mexico -708.464702491
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+9 2010
+Optimization terminated successfully.
+         Current function value: -75484629586457254981744165369413632.000000
+         Iterations: 45
+         Function evaluations: 247305
+1 Missouri 3421.10981912
+2 Auburn 3409.44670054
+3 Michigan State 3405.82866869
+4 LSU 3361.46379937
+5 Oklahoma 3354.08872018
+6 Wisconsin 3351.57941515
+7 Florida State 3268.756445
+8 Mississippi State 3262.27613732
+9 Ohio State 3254.20004211
+10 Boise State 3248.92275225
+11 Utah 3246.71439094
+12 TCU 3229.85981547
+13 Oregon 3229.85981547
+14 Stanford 3192.35324844
+15 Virginia Tech 3184.7147041
+16 Miami (FL) 3168.51262356
+17 Illinois 3149.07438506
+18 Arizona 37.9084994709
+19 Nebraska 37.6217093944
+20 Iowa 37.5655331111
+21 Oregon State 37.2538792417
+22 Oklahoma State 36.9077035035
+23 Iowa State 36.7311842218
+24 Kansas State 36.7116841635
+25 Baylor 36.6835664604
+26 Texas 36.5205832204
+27 USC 36.3877478586
+28 California 36.0560695612
+29 Nevada 36.037413795
+30 Texas Tech 35.9438702473
+31 Washington 35.7579112718
+32 UCLA 35.7262881422
+33 Alabama 35.6768936179
+34 Arizona State 35.585296663
+35 Michigan 35.3793783616
+36 Hawaii 35.2048833879
+37 Air Force 35.1961672218
+38 Arkansas 35.1822550481
+39 South Carolina 35.0594025671
+40 Colorado 34.9748283402
+41 San Diego State 34.9743155211
+42 East Carolina 34.7042839783
+43 North Carolina 34.6359296323
+44 Brigham Young 34.6018076503
+45 Florida 34.1135356386
+46 Clemson 34.1123339652
+47 Texas A&M 33.9987025309
+48 North Carolina State 33.752001528
+49 Northern Illinois 33.7064713194
+50 Southern Miss 33.5350817362
+51 Syracuse 33.1993763727
+52 Pittsburgh 33.1889981205
+53 West Virginia 33.1503313204
+54 Notre Dame 33.1394040916
+55 Navy 33.136646516
+56 Penn State 33.0995802216
+57 Georgia 33.0235209967
+58 Wyoming 32.8450369406
+59 Maryland 32.7372975721
+60 Kansas 32.5519694689
+61 Georgia Tech 32.5288629819
+62 Kentucky 32.2013330175
+63 Ole Miss 32.0301171908
+64 Fresno State 31.923138757
+65 Toledo 31.7932411331
+66 Louisiana Tech 31.7470583591
+67 Utah State 31.6209155959
+68 South Florida 30.8448108466
+69 Purdue 30.7590459982
+70 Temple 30.6541516145
+71 UCF 30.4773259443
+72 Northwestern 30.0257975943
+73 Indiana 29.9300620349
+74 Cincinnati 29.5400212438
+75 Tennessee 29.2797109516
+76 Vanderbilt 28.8386798514
+77 Southern Methodist 28.8248692258
+78 Louisville 28.7536939842
+79 Houston 28.6928719126
+80 Rutgers 28.613856608
+81 Tulsa 28.2690861736
+82 Army 27.9458695882
+83 Connecticut 27.9445095799
+84 Tulane 27.5299818821
+85 Minnesota 26.9862570583
+86 Rice 26.9413506715
+87 UTEP 26.2764721309
+88 Florida International 26.2061383005
+89 UAB 25.8917371335
+90 Troy 25.7401192816
+91 Memphis 25.1738642172
+92 Middle Tennessee 24.4200312222
+93 Arkansas State 24.029689415
+94 Louisiana-Monroe 23.6377086174
+95 Louisiana-Lafayette 23.5184042317
+96 Western Kentucky 23.4533066062
+97 Florida Atlantic 22.601463554
+98 North Texas 22.5650864849
+99 Boston College 19.5559357655
+100 Buffalo 17.2503078497
+101 Ohio 7.86101492928
+102 Miami (OH) 7.4734567123
+103 Marshall 7.2781400702
+104 Kent State 7.08441357939
+105 Bowling Green 6.69550850764
+106 Virginia 1.02816243914
+107 Colorado State -1.98153973967
+108 Idaho -11.4354949827
+109 Western Michigan -20.8893469035
+110 Central Michigan -30.3429888849
+111 Eastern Michigan -30.343093524
+112 Ball State -30.3431981972
+113 Wake Forest -291.744200572
+114 New Mexico State -377.729648407
+115 Washington State -1027.41889263
+116 UNLV -1094.3481648
+117 New Mexico -1133.63893133
+118 San Jose State -1406.90814869
+119 Duke -1554.82089176
+120 Akron -3023.62445539
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+10 2010
+Optimization terminated successfully.
+         Current function value: -43886049409894306971402633216.000000
+         Iterations: 30
+         Function evaluations: 157570
+1 Auburn 3524.61509948
+2 Boise State 3459.19044019
+3 LSU 3432.37817386
+4 Virginia Tech 3393.5388846
+5 Mississippi State 3337.71300931
+6 Utah 3257.53666706
+7 TCU 3257.53666706
+8 Oregon 3257.53666706
+9 Stanford 2265.61147472
+10 Wisconsin 45.5401942165
+11 Nebraska 45.4580949559
+12 Missouri 45.3734811437
+13 Michigan State 45.3235616145
+14 Arizona 44.9211267796
+15 Iowa 44.816783773
+16 Oklahoma State 44.7528481909
+17 Oklahoma 44.7294410742
+18 Oregon State 44.269140366
+19 Ohio State 44.1428850174
+20 Baylor 43.5192397908
+21 Alabama 43.3244459497
+22 Kansas State 43.2839163112
+23 Iowa State 43.0194132444
+24 Arkansas 42.9893197425
+25 USC 42.7854870525
+26 Illinois 42.6444745847
+27 Texas 42.4869628576
+28 California 42.325080503
+29 Texas A&M 42.3072199081
+30 Washington 42.2727564725
+31 Nevada 42.2296798368
+32 South Carolina 42.1137233169
+33 Florida 42.0679391811
+34 Texas Tech 42.0474406581
+35 Arizona State 42.0436978018
+36 UCLA 41.9212376382
+37 North Carolina State 41.7772562151
+38 Hawaii 41.5337977372
+39 Florida State 41.5247962638
+40 Colorado 41.3615597478
+41 Penn State 41.2128274708
+42 Air Force 40.923847904
+43 UCF 40.9139409278
+44 San Diego State 40.9050351067
+45 Northern Illinois 40.5308075747
+46 Brigham Young 40.3580223026
+47 East Carolina 40.3525599753
+48 Georgia 40.1140632171
+49 Michigan 39.9789722672
+50 Miami (FL) 39.8449388683
+51 North Carolina 39.7377805306
+52 Kentucky 39.5425689264
+53 Ole Miss 39.3331269477
+54 Temple 38.9992809611
+55 Georgia Tech 38.8273492174
+56 Syracuse 38.7721835696
+57 Wyoming 38.743093772
+58 Pittsburgh 38.7159469961
+59 Fresno State 38.651756405
+60 Virginia 38.6362367724
+61 Clemson 38.4150324069
+62 Notre Dame 38.3745754227
+63 Kansas 38.3416423925
+64 Maryland 38.3251459802
+65 Toledo 38.3114524791
+66 Tulsa 38.2499389191
+67 Navy 38.2199493811
+68 Southern Miss 38.0207083314
+69 Tennessee 38.0004915967
+70 Northwestern 37.9872910495
+71 Southern Methodist 37.9367631819
+72 West Virginia 37.868530104
+73 Houston 37.6639728622
+74 Boston College 37.6564315141
+75 Purdue 37.6464072973
+76 Utah State 37.6440613422
+77 Rutgers 37.244301813
+78 Louisiana Tech 37.2297522517
+79 Vanderbilt 37.1947260179
+80 Army 37.1582084148
+81 Connecticut 37.1090733731
+82 South Florida 37.0040361618
+83 Louisville 36.7494271829
+84 Cincinnati 36.6740396786
+85 Wake Forest 36.6125002782
+86 Tulane 36.396584591
+87 Duke 36.3091388069
+88 UAB 36.2306368862
+89 Indiana 35.8693523412
+90 Rice 35.7994910041
+91 Minnesota 35.320717523
+92 Ohio 35.2319180863
+93 Marshall 35.1056101648
+94 UTEP 35.0091491259
+95 Miami (OH) 34.8236761418
+96 Troy 34.6685350355
+97 Memphis 34.0644930776
+98 Louisiana-Monroe 33.9591145752
+99 Kent State 33.8461763776
+100 Buffalo 33.8216416716
+101 Arkansas State 33.7415655505
+102 Middle Tennessee 33.6841012862
+103 Florida Atlantic 33.2957425129
+104 Florida International 33.2688217601
+105 Bowling Green 33.0287051753
+106 Louisiana-Lafayette 32.7328057336
+107 North Texas 32.5109887478
+108 Western Kentucky 31.9056645146
+109 Colorado State 26.9094846993
+110 Idaho 18.9961990694
+111 Western Michigan 11.0826242334
+112 UNLV -14.9142535047
+113 New Mexico State -25.567320029
+114 Eastern Michigan -48.8061975311
+115 Ball State -48.8062004085
+116 Central Michigan -48.8062120698
+117 New Mexico -66.4065415739
+118 Akron -227.475564988
+119 San Jose State -475.224065775
+120 Washington State -706.768900394
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+11 2010
+Optimization terminated successfully.
+         Current function value: -4784320380155624891088896.000000
+         Iterations: 33
+         Function evaluations: 175036
+1 Auburn 1898.14256642
+2 Boise State 1859.46478222
+3 LSU 1857.46151311
+4 TCU 1856.56350989
+5 Oregon 1856.56350989
+6 Stanford 1819.05694306
+7 Utah 1818.55707538
+8 Mississippi State 1816.10711081
+9 Virginia Tech 1811.17746789
+10 Oklahoma State 37.1143769725
+11 Nebraska 37.0952785022
+12 Wisconsin 36.825023677
+13 Michigan State 36.6643235911
+14 Iowa 36.2005709651
+15 Arizona 35.9769165665
+16 Arkansas 35.8117461463
+17 Alabama 35.6921058264
+18 Missouri 35.6251744173
+19 Kansas State 35.4217548487
+20 Baylor 35.3497975116
+21 Ohio State 35.286500204
+22 Texas A&M 35.1948393028
+23 Oklahoma 35.1021818662
+24 Iowa State 34.6760829817
+25 Texas Tech 34.5927739549
+26 Oregon State 34.3526221219
+27 Florida 34.3289930765
+28 USC 34.222101482
+29 UCLA 34.1924512947
+30 Texas 34.1284782818
+31 South Carolina 33.9872599259
+32 Nevada 33.5260331177
+33 California 33.5067410128
+34 Michigan 33.3805397526
+35 Penn State 33.3589703168
+36 Illinois 33.3586848737
+37 Washington 33.1883543699
+38 Hawaii 32.9912378761
+39 Arizona State 32.6393185607
+40 Colorado 32.3634509056
+41 North Carolina State 32.3567782008
+42 North Carolina 32.3068813959
+43 Florida State 32.2714054576
+44 Air Force 32.2563848122
+45 Miami (FL) 32.1869830666
+46 UCF 32.1764127269
+47 Northern Illinois 32.0974055684
+48 San Diego State 32.0312897915
+49 Georgia 32.0228546844
+50 Kansas 31.9629131873
+51 Kentucky 31.8238007242
+52 Ole Miss 31.7278201822
+53 Clemson 31.6037828737
+54 East Carolina 31.5380094548
+55 Brigham Young 31.3898276971
+56 Georgia Tech 31.297855025
+57 Fresno State 31.2121332886
+58 Temple 31.1482913964
+59 Pittsburgh 31.0869485585
+60 Navy 31.0463563833
+61 Maryland 30.9895590461
+62 Notre Dame 30.8405797121
+63 Southern Miss 30.7080586994
+64 Syracuse 30.6141276695
+65 West Virginia 30.480259106
+66 Boston College 30.4059162313
+67 Tulsa 30.3025933665
+68 Louisville 30.1079491267
+69 Tennessee 30.100123256
+70 Northwestern 30.0692767322
+71 South Florida 30.0042739682
+72 Virginia 29.8098898288
+73 Utah State 29.7227602344
+74 Houston 29.7127998673
+75 Connecticut 29.6679813486
+76 Louisiana Tech 29.5952754036
+77 Cincinnati 29.5702240049
+78 Duke 29.5517220517
+79 Army 29.5115968812
+80 Southern Methodist 29.4972460479
+81 Vanderbilt 29.4815040246
+82 Purdue 29.4656303265
+83 Toledo 29.3727205712
+84 Rutgers 29.3066590646
+85 Wake Forest 29.1029187993
+86 Marshall 28.6481439451
+87 Tulane 28.5743673179
+88 Ohio 28.4688541311
+89 Miami (OH) 28.4581008634
+90 Indiana 28.3139018731
+91 UTEP 28.2915550286
+92 UAB 28.2596923471
+93 Colorado State 28.2287636267
+94 Rice 28.0878434371
+95 Idaho 27.4713573152
+96 Wyoming 27.3333518051
+97 Minnesota 27.2916114275
+98 Troy 27.1741598312
+99 Kent State 26.8558806655
+100 Buffalo 26.6165354675
+101 Memphis 26.5792055644
+102 Florida International 26.535548544
+103 Arkansas State 26.5256001181
+104 UNLV 26.1971195647
+105 New Mexico State 26.1680867894
+106 Louisiana-Monroe 26.1074707472
+107 Florida Atlantic 26.1053437859
+108 Bowling Green 25.935888468
+109 Middle Tennessee 25.7232159569
+110 New Mexico 25.5949840341
+111 Louisiana-Lafayette 25.2273010867
+112 North Texas 25.1155068539
+113 Western Kentucky 24.3122872734
+114 Central Michigan 17.436867511
+115 Western Michigan 16.909367273
+116 Eastern Michigan 16.9093640057
+117 Ball State 16.3819875835
+118 Akron -153.517079069
+119 Washington State -708.694737157
+120 San Jose State -1339.81268978
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+12 2010
+Optimization terminated successfully.
+         Current function value: -223259950940998008832.000000
+         Iterations: 22
+         Function evaluations: 115171
+1 Boise State 320.886492932
+2 Virginia Tech 274.225844389
+3 Auburn 273.416967066
+4 TCU 273.416967066
+5 Oregon 273.416967066
+6 Stanford 235.91040398
+7 LSU 229.731524702
+8 Alabama 35.8454934571
+9 Arkansas 35.6709490501
+10 Oklahoma State 35.5675116034
+11 Nebraska 35.4997840466
+12 Mississippi State 34.7622364457
+13 Wisconsin 34.6523204385
+14 Missouri 34.5832364318
+15 Michigan State 34.4055215066
+16 South Carolina 34.3880697937
+17 Texas A&M 34.360604144
+18 Oklahoma 34.0024610301
+19 Ohio State 33.9408749178
+20 USC 33.6843773297
+21 Baylor 33.3281860167
+22 Kansas State 33.2837049852
+23 Arizona 33.2289122406
+24 Florida 33.1989998257
+25 Iowa 33.161107048
+26 Texas Tech 32.7992052066
+27 Nevada 32.6750477895
+28 Utah 32.372551662
+29 Hawaii 32.3130692256
+30 UCLA 32.159669287
+31 Texas 32.1320967428
+32 Iowa State 32.1055301307
+33 California 32.0754956504
+34 Penn State 32.0379519334
+35 Michigan 32.018791009
+36 Florida State 31.8620628811
+37 Oregon State 31.7847477214
+38 Colorado 31.7842885531
+39 Georgia 31.7191056094
+40 North Carolina 31.7111848401
+41 Washington 31.7085225473
+42 Miami (FL) 31.6939790438
+43 North Carolina State 31.6835626514
+44 Northwestern 31.3266596697
+45 Illinois 31.3015697524
+46 Kentucky 31.2644554134
+47 Air Force 31.255021132
+48 Arizona State 31.2453200556
+49 San Diego State 31.1536086841
+50 East Carolina 31.1041463508
+51 Notre Dame 31.0834709785
+52 Kansas 31.0090324084
+53 Northern Illinois 30.9900466883
+54 Tennessee 30.9849857436
+55 Clemson 30.863547945
+56 UCF 30.8391108179
+57 Southern Miss 30.8069700295
+58 Navy 30.6917328389
+59 Maryland 30.6844305601
+60 Ole Miss 30.6099179576
+61 Brigham Young 30.5649004528
+62 Temple 30.453993007
+63 Tulsa 30.4536072475
+64 West Virginia 30.4276220904
+65 Georgia Tech 30.3436312853
+66 Fresno State 30.3366081545
+67 Boston College 30.2138072472
+68 Syracuse 30.1753689092
+69 Pittsburgh 30.0587670037
+70 South Florida 29.9470821847
+71 Purdue 29.8202280476
+72 Connecticut 29.6723943393
+73 Washington State 29.6630507301
+74 Southern Methodist 29.6001275695
+75 Minnesota 29.5186358512
+76 Vanderbilt 29.3463630536
+77 Louisville 29.2134081079
+78 Louisiana Tech 29.1657091885
+79 Houston 29.1184783517
+80 Army 29.0629912848
+81 Utah State 29.0306943983
+82 Toledo 28.8864066923
+83 Rutgers 28.8860504901
+84 Virginia 28.8612541567
+85 Cincinnati 28.8402357735
+86 Duke 28.7988147808
+87 Wake Forest 28.5151057479
+88 Tulane 28.4720927706
+89 Marshall 28.3454851802
+90 Indiana 28.2278512668
+91 UAB 28.0274861077
+92 UTEP 27.9478003932
+93 Miami (OH) 27.8870127322
+94 Ohio 27.8858530589
+95 Colorado State 27.7654704132
+96 Rice 27.5548636196
+97 Idaho 27.2591148246
+98 Florida International 27.0402603847
+99 Troy 26.4627461009
+100 Kent State 26.3336958439
+101 UNLV 26.327574679
+102 Florida Atlantic 26.2903455296
+103 Louisiana-Monroe 25.938829768
+104 Memphis 25.8711565473
+105 Arkansas State 25.7937619234
+106 New Mexico State 25.6350211013
+107 Wyoming 25.5238183062
+108 North Texas 25.3601754848
+109 Bowling Green 25.1987688907
+110 Western Kentucky 25.0690419989
+111 Middle Tennessee 24.972409918
+112 New Mexico 24.9412746198
+113 Louisiana-Lafayette 24.8671856727
+114 Western Michigan 24.6607417125
+115 Buffalo 24.522976074
+116 Central Michigan 24.3819910712
+117 Ball State 24.1839965645
+118 Eastern Michigan 23.6381750293
+119 San Jose State -13.095339555
+120 Akron -15.1378849719
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+13 2010
+Optimization terminated successfully.
+         Current function value: -942292603966491721728.000000
+         Iterations: 26
+         Function evaluations: 136473
+1 Auburn 357.692108461
+2 TCU 357.692108461
+3 Oregon 357.692108461
+4 Boise State 357.692108461
+5 Stanford 320.185543344
+6 LSU 310.20766082
+7 Virginia Tech 308.461693823
+8 Arkansas 36.2575295262
+9 Alabama 36.1019286891
+10 Oklahoma State 35.3793574802
+11 Wisconsin 34.9714696767
+12 Texas A&M 34.864714382
+13 Nebraska 34.7198556471
+14 South Carolina 34.6560716247
+15 Missouri 34.6312562732
+16 Mississippi State 34.5587088087
+17 Michigan State 34.5361042608
+18 Ohio State 34.521143568
+19 Oklahoma 34.3604461957
+20 Florida 33.2978917512
+21 Arizona 33.1730329674
+22 Baylor 33.1069113308
+23 USC 33.02754116
+24 Iowa 33.0168725574
+25 Texas Tech 32.8719758881
+26 Nevada 32.648085408
+27 Kansas State 32.6420606873
+28 Utah 32.6264558137
+29 Oregon State 32.3468829155
+30 Hawaii 32.2362690271
+31 Colorado 32.1577690626
+32 California 32.1175017595
+33 Washington 32.0873265084
+34 Michigan 32.0698291539
+35 Iowa State 32.0450692178
+36 Penn State 32.0201097246
+37 Florida State 31.9565640878
+38 Texas 31.9515390639
+39 North Carolina State 31.9044967896
+40 Georgia 31.9022381759
+41 UCLA 31.8068272276
+42 Illinois 31.6581783967
+43 Miami (FL) 31.6199104646
+44 Arizona State 31.4377048888
+45 Kentucky 31.3115398262
+46 Tennessee 31.2896483398
+47 North Carolina 31.2847855376
+48 Notre Dame 31.2282661416
+49 Air Force 31.2224247944
+50 Kansas 30.9867490621
+51 Northwestern 30.9814581665
+52 Northern Illinois 30.9701511281
+53 UCF 30.8688176394
+54 San Diego State 30.8591605801
+55 Southern Miss 30.8585143493
+56 Clemson 30.8502883072
+57 Ole Miss 30.6669457631
+58 Tulsa 30.5900428866
+59 Navy 30.5893406711
+60 Brigham Young 30.5406370927
+61 East Carolina 30.53388085
+62 Maryland 30.4773686196
+63 West Virginia 30.456846046
+64 Georgia Tech 30.3325404333
+65 Boston College 30.2740655875
+66 Fresno State 30.2637191656
+67 Pittsburgh 30.2084349346
+68 Purdue 29.9717207518
+69 Southern Methodist 29.9104035828
+70 Washington State 29.8112908742
+71 Connecticut 29.7905922796
+72 Syracuse 29.75766287
+73 Temple 29.5551107661
+74 Minnesota 29.5462635751
+75 South Florida 29.5062751841
+76 Toledo 29.4842472069
+77 Houston 29.2451355225
+78 Vanderbilt 29.2299809554
+79 Louisiana Tech 29.1497847052
+80 Louisville 29.0238020116
+81 Cincinnati 29.0186031127
+82 Ohio 29.0026081931
+83 Army 28.6754500798
+84 Tulane 28.5396022759
+85 Rice 28.5208859437
+86 Marshall 28.486053714
+87 Rutgers 28.4727455168
+88 Virginia 28.454313126
+89 Duke 28.4329281638
+90 Idaho 28.2922285497
+91 Utah State 28.2734502818
+92 Wake Forest 28.270750257
+93 UAB 28.2242843246
+94 UTEP 28.2168498567
+95 Miami (OH) 28.2140158652
+96 Indiana 28.0705772126
+97 Colorado State 27.7460844306
+98 Wyoming 27.3893259743
+99 UNLV 27.2303041808
+100 Florida International 27.0648943517
+101 Troy 26.5257942858
+102 Florida Atlantic 26.2524006103
+103 New Mexico State 26.1606663249
+104 Western Michigan 26.1597964227
+105 Louisiana-Monroe 26.1428599751
+106 Memphis 25.8725111448
+107 Kent State 25.8598923652
+108 New Mexico 25.7968324118
+109 Arkansas State 25.7740297884
+110 Bowling Green 25.3092835595
+111 Middle Tennessee 25.2384166132
+112 Central Michigan 25.2376072432
+113 North Texas 25.18245547
+114 Eastern Michigan 24.9731650148
+115 Ball State 24.842885393
+116 Louisiana-Lafayette 24.7638585256
+117 Western Kentucky 24.7125035922
+118 Buffalo 24.2836226127
+119 Akron -9.31897206164
+120 San Jose State -11.555039971
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+14 2010
+Optimization terminated successfully.
+         Current function value: -909933542043792128.000000
+         Iterations: 23
+         Function evaluations: 119948
+1 Auburn 173.695202386
+2 TCU 173.695202386
+3 Oregon 173.695202386
+4 Stanford 136.188635731
+5 Arkansas 36.3555462257
+6 LSU 36.0662042791
+7 Alabama 35.2156010903
+8 Wisconsin 34.8519295885
+9 Texas A&M 34.7043511047
+10 Oklahoma 34.6477432075
+11 Oklahoma State 34.5663519946
+12 Missouri 34.5419371921
+13 Michigan State 34.4932803273
+14 Nebraska 34.4569355267
+15 Ohio State 34.4093958406
+16 Boise State 34.0973246117
+17 South Carolina 34.0583645866
+18 Mississippi State 33.7270476613
+19 Nevada 33.619059942
+20 Virginia Tech 33.5334708411
+21 Baylor 32.83483987
+22 Utah 32.8289400539
+23 Arizona 32.6645227383
+24 Texas Tech 32.6642865957
+25 USC 32.3384000231
+26 Kansas State 32.2801022674
+27 Iowa 32.2384540296
+28 Florida 32.1639649961
+29 Florida State 32.1485577905
+30 Hawaii 32.0407986229
+31 Washington 32.0051020875
+32 Michigan 31.970635186
+33 Oregon State 31.9139737367
+34 Penn State 31.8903289588
+35 Colorado 31.8231013609
+36 Iowa State 31.7892198587
+37 Notre Dame 31.7468935635
+38 Illinois 31.7241704101
+39 California 31.6130648506
+40 Texas 31.6003968932
+41 Arizona State 31.4785320595
+42 Georgia 31.4331062869
+43 Air Force 31.3241541558
+44 North Carolina State 31.2900695215
+45 UCLA 31.1827471468
+46 Tennessee 31.0664469394
+47 Northwestern 31.0082425651
+48 Northern Illinois 30.9986707672
+49 Miami (FL) 30.983685994
+50 San Diego State 30.9674971454
+51 North Carolina 30.9384127919
+52 Tulsa 30.9086271763
+53 Maryland 30.8879501384
+54 West Virginia 30.8446881074
+55 Navy 30.7234716391
+56 Clemson 30.7016078154
+57 Kansas 30.5843317672
+58 Brigham Young 30.5800917996
+59 Boston College 30.5602891915
+60 UCF 30.493565452
+61 Kentucky 30.3809630677
+62 Minnesota 30.3425288658
+63 Southern Miss 30.2835168081
+64 Fresno State 30.2332415159
+65 Ole Miss 30.1722809809
+66 Southern Methodist 30.1584053298
+67 East Carolina 30.0467338939
+68 Pittsburgh 30.0407537483
+69 South Florida 29.9802004804
+70 Georgia Tech 29.9312380748
+71 Connecticut 29.7689632008
+72 Purdue 29.6944341902
+73 Syracuse 29.6546952929
+74 Washington State 29.6166046239
+75 Indiana 29.5892212082
+76 Toledo 29.3459917282
+77 Louisville 29.1674423637
+78 Houston 29.0971787909
+79 Louisiana Tech 29.048827657
+80 Cincinnati 28.9396659718
+81 Temple 28.8731978733
+82 Miami (OH) 28.7300374913
+83 Wake Forest 28.7267561004
+84 Rice 28.6096433285
+85 Army 28.5377448212
+86 Marshall 28.5096827592
+87 Duke 28.4119354065
+88 Virginia 28.3898943309
+89 Vanderbilt 28.3338634106
+90 Idaho 28.2687380455
+91 Utah State 28.2503835278
+92 Ohio 28.231201684
+93 Rutgers 28.2071100805
+94 Tulane 28.1705439587
+95 UTEP 28.1287844944
+96 Colorado State 27.858853109
+97 UAB 27.8270023783
+98 Wyoming 27.4160381902
+99 UNLV 27.2566871004
+100 Kent State 27.0424262089
+101 Florida International 27.0336315901
+102 Western Michigan 26.9071765746
+103 Troy 26.5203024526
+104 New Mexico State 26.1253129992
+105 Memphis 25.871287648
+106 New Mexico 25.8046726584
+107 Florida Atlantic 25.716724667
+108 Louisiana-Monroe 25.6257745781
+109 Arkansas State 25.5992293512
+110 Central Michigan 25.5531447136
+111 Middle Tennessee 25.5010776892
+112 Ball State 25.4102305202
+113 Bowling Green 25.3366476573
+114 Eastern Michigan 25.1810656095
+115 Louisiana-Lafayette 25.0979150769
+116 North Texas 25.0908860838
+117 Western Kentucky 24.565938931
+118 Akron 24.2238020509
+119 Buffalo 23.8399686122
+120 San Jose State -10.983568684
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+15 2010
+Optimization terminated successfully.
+         Current function value: -801922917964141312.000000
+         Iterations: 24
+         Function evaluations: 125072
+1 Auburn 177.023156758
+2 TCU 177.023156758
+3 Oregon 177.023156758
+4 Stanford 139.516589978
+5 Arkansas 36.3569072765
+6 LSU 36.0786411996
+7 Alabama 35.2175929013
+8 Oklahoma 34.8503702321
+9 Texas A&M 34.6382612996
+10 Wisconsin 34.4974356476
+11 Oklahoma State 34.4966926005
+12 Missouri 34.4454476069
+13 Boise State 34.3823885417
+14 Nebraska 34.1008067411
+15 Michigan State 34.0929970553
+16 South Carolina 34.0920188902
+17 Ohio State 34.0028495744
+18 Virginia Tech 33.9477837572
+19 Nevada 33.8672839334
+20 Mississippi State 33.7658545098
+21 Utah 32.8096924845
+22 Baylor 32.7912617502
+23 Texas Tech 32.5945526775
+24 USC 32.4196798438
+25 Hawaii 32.2523544918
+26 Florida 32.2088335197
+27 Kansas State 32.2000536322
+28 Arizona 32.1757412964
+29 Florida State 32.1117048347
+30 Washington 32.0173782007
+31 Oregon State 31.9051991635
+32 Arizona State 31.8739316279
+33 Iowa 31.820515559
+34 Colorado 31.795726486
+35 Notre Dame 31.6726674738
+36 California 31.6018198651
+37 Iowa State 31.5874357844
+38 Michigan 31.583218608
+39 Texas 31.4929009472
+40 Georgia 31.4839709874
+41 Penn State 31.4020862766
+42 Air Force 31.376944032
+43 North Carolina State 31.361542352
+44 Tennessee 31.1682230545
+45 San Diego State 31.039587113
+46 UCLA 31.0345422248
+47 Miami (FL) 31.0042342888
+48 North Carolina 30.9803558685
+49 West Virginia 30.9550889707
+50 Fresno State 30.9491307843
+51 Maryland 30.9219755198
+52 Tulsa 30.8877395206
+53 Illinois 30.8544791026
+54 UCF 30.7631210635
+55 Clemson 30.7348433987
+56 Navy 30.7339140839
+57 Brigham Young 30.6498994383
+58 Boston College 30.5953687028
+59 Kansas 30.5495422092
+60 Northwestern 30.5240120186
+61 Kentucky 30.4876114998
+62 Ole Miss 30.417394613
+63 Southern Miss 30.3573006146
+64 Pittsburgh 30.2026450081
+65 East Carolina 30.0859670744
+66 Connecticut 30.0654509819
+67 Southern Methodist 29.9761708129
+68 Georgia Tech 29.9701218015
+69 Northern Illinois 29.9658893153
+70 South Florida 29.7693177645
+71 Minnesota 29.7603157771
+72 Syracuse 29.7153378813
+73 Washington State 29.4576021923
+74 Miami (OH) 29.3936650155
+75 Louisiana Tech 29.2811148392
+76 Purdue 29.2472146211
+77 Louisville 29.2312663516
+78 Toledo 29.1062210506
+79 Houston 29.1060746022
+80 Indiana 29.102223349
+81 Cincinnati 28.9936299798
+82 Temple 28.9475983087
+83 Wake Forest 28.7715957185
+84 Rice 28.5977519309
+85 Army 28.5736900644
+86 Marshall 28.5651709303
+87 Idaho 28.492666536
+88 Utah State 28.4915401135
+89 Duke 28.4494955546
+90 Virginia 28.4279673181
+91 Vanderbilt 28.4121168333
+92 Ohio 28.3521001636
+93 Tulane 28.1972385011
+94 Rutgers 28.1741061654
+95 UTEP 28.1625571966
+96 Colorado State 28.0823591841
+97 UAB 27.8737518444
+98 Wyoming 27.5131769353
+99 UNLV 27.4065752113
+100 Kent State 27.1292495346
+101 Western Michigan 26.9445483546
+102 Troy 26.6801498745
+103 Florida International 26.5658037404
+104 New Mexico State 26.2876226042
+105 Memphis 26.0493735508
+106 New Mexico 25.9426973476
+107 Middle Tennessee 25.8893220873
+108 Louisiana-Monroe 25.6435132237
+109 Arkansas State 25.6126854883
+110 Central Michigan 25.6081916046
+111 Florida Atlantic 25.589560606
+112 Ball State 25.4476302266
+113 Bowling Green 25.4238708939
+114 Eastern Michigan 25.2347101032
+115 Louisiana-Lafayette 25.12496811
+116 North Texas 25.1151299411
+117 Western Kentucky 24.5910667255
+118 Akron 24.2790580275
+119 Buffalo 23.9027997283
+120 San Jose State -8.4195465607
+121 Cal Poly None
+122 Tennessee-Martin None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 Arkansas-Pine Bluff None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Eastern Washington None
+135 Northern Arizona None
+136 Central Arkansas None
+137 Southern Illinois None
+138 Indiana State None
+139 Hampton None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Appalachian State None
+143 Nicholls State None
+144 Montana State None
+145 Coastal Carolina None
+146 South Dakota None
+147 Morgan State None
+148 William & Mary None
+149 Southeast Missouri State None
+150 Murray State None
+151 Wofford None
+152 Presbyterian None
+153 Gardner-Webb None
+154 Colgate None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Jacksonville State None
+160 Liberty None
+161 Norfolk State None
+162 Western Carolina None
+163 Eastern Kentucky None
+164 Southern Utah None
+165 James Madison None
+166 North Dakota None
+167 Stony Brook None
+168 Northern Colorado None
+169 Florida A&M None
+170 Texas State None
+171 Virginia Military Institute None
+172 UC Davis None
+173 Furman None
+174 New Hampshire None
+175 Massachusetts None
+176 Charleston Southern None
+177 Citadel None
+178 Texas Southern None
+179 Chattanooga None
+180 Georgia Southern None
+181 Alcorn State None
+182 Rhode Island None
+183 Northwestern State None
+184 Elon None
+185 Eastern Illinois None
+186 McNeese State None
+187 South Dakota State None
+188 Weber State None
+189 South Carolina State None
+190 Prairie View A&M None
+191 Portland State None
+192 Illinois State None
+193 Samford None
+194 Youngstown State None
+195 Maine None
+
+8 2011
+Optimization terminated successfully.
+         Current function value: -938516954861015420687613766868698881064960.000000
+         Iterations: 28
+         Function evaluations: 171641
+1 Alabama 1215.70902024
+2 Houston 1211.98020275
+3 LSU 1206.04032771
+4 Arkansas 1177.37585087
+5 Clemson 1166.75641252
+6 Oklahoma 1164.13837908
+7 Oklahoma State 1164.13837908
+8 Wisconsin 1164.13837908
+9 Stanford 1164.13837908
+10 West Virginia 1142.90532776
+11 Boise State 1132.70396682
+12 Auburn 1130.55101115
+13 Penn State 1117.83209117
+14 Texas 1117.33145006
+15 South Carolina 1065.00771059
+16 Nebraska 1006.490647
+17 Louisiana-Lafayette 968.51222821
+18 Georgia 968.166457185
+19 Virginia Tech 959.262168502
+20 Oregon 944.014637304
+21 Florida 934.332283479
+22 UCLA 934.169318239
+23 Washington 915.566270411
+24 Texas A&M 886.465917937
+25 Vanderbilt 818.384345625
+26 Tennessee 769.793543959
+27 Tulsa 763.106550817
+28 Southern Methodist 674.346700712
+29 Mississippi State 581.222513199
+30 Cincinnati 568.805374021
+31 Kansas State 431.03182825
+32 Texas Tech 335.266615768
+33 Nevada 223.396405803
+34 Baylor 165.449766438
+35 TCU 131.680351855
+36 Arizona State 37.8308633032
+37 USC 37.2018188789
+38 Illinois 36.9777273394
+39 Missouri 36.8117131714
+40 Miami (FL) 36.2044764393
+41 Michigan State 36.120532431
+42 Ohio State 36.0949509069
+43 Iowa State 35.7937166033
+44 Syracuse 35.7806365853
+45 Rutgers 35.7507801775
+46 Georgia Tech 35.6422433121
+47 Utah 35.4963785309
+48 Michigan 35.4631756279
+49 North Carolina 35.3893410933
+50 Wake Forest 35.2865571619
+51 Temple 35.1523778465
+52 Toledo 35.0430133684
+53 Maryland 34.9427096955
+54 Florida State 34.5779549519
+55 Iowa 34.5081613339
+56 Notre Dame 34.4918894914
+57 Duke 33.8627960256
+58 Brigham Young 33.752512848
+59 Virginia 33.611557247
+60 Pittsburgh 33.2226061655
+61 South Florida 33.2219073362
+62 Kansas 33.198218179
+63 Florida International 33.142980589
+64 Connecticut 32.8257716508
+65 Southern Miss 32.5890984049
+66 Ball State 32.4523032158
+67 North Carolina State 32.328063186
+68 Eastern Michigan 32.2170899667
+69 UCF 32.0085789031
+70 Western Michigan 31.9931458562
+71 Marshall 31.5667333153
+72 Buffalo 31.0660611053
+73 Ohio 30.9327361539
+74 Northern Illinois 30.7614589039
+75 Louisville 30.7548707739
+76 Kentucky 30.3496179662
+77 Central Michigan 29.9443651607
+78 California 26.0220810514
+79 San Diego State 25.7422587068
+80 Ole Miss 24.2843853818
+81 San Jose State 20.0144922058
+82 Washington State 16.0232958236
+83 Fresno State 14.869936359
+84 Wyoming 5.62999758001
+85 UNLV 5.62059367736
+86 Utah State 5.61756566692
+87 Hawaii 5.61465215055
+88 Colorado 5.60871248778
+89 Colorado State 5.60625282922
+90 Arkansas State 1.96317998287
+91 Rice -3.55254033851
+92 UTEP -9.20387443521
+93 Air Force -10.447899547
+94 Akron -11.081565618
+95 North Texas -17.9755757401
+96 Louisiana Tech -31.4745212415
+97 Bowling Green -35.6263536863
+98 Louisiana-Monroe -37.6118554181
+99 Purdue -39.7349711025
+100 New Mexico State -41.0846114268
+101 Navy -45.7166103029
+102 East Carolina -48.0323038764
+103 Oregon State -48.3852758916
+104 Indiana -61.5340979444
+105 Minnesota -76.8566679177
+106 Troy -77.5817929232
+107 Idaho -81.3015347192
+108 Western Kentucky -82.3894960916
+109 Arizona -85.0121474879
+110 Miami (OH) -111.656394081
+111 Middle Tennessee -114.304588218
+112 Florida Atlantic -118.993911722
+113 New Mexico -149.672639134
+114 Memphis -154.188958774
+115 Army -258.190359822
+116 Northwestern -291.692696728
+117 Boston College -843.121866376
+118 Kent State -858.122764119
+119 Tulane -1009.77438373
+120 UAB -2671.700198
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+9 2011
+Optimization terminated successfully.
+         Current function value: -713003988586519903758544875290624.000000
+         Iterations: 42
+         Function evaluations: 237894
+1 Alabama 4446.38023119
+2 Stanford 4390.80826406
+3 Oklahoma State 4388.203298
+4 Boise State 4379.45740396
+5 Kansas State 4378.617193
+6 Clemson 4378.617193
+7 Houston 4378.617193
+8 LSU 4320.03653253
+9 Arkansas 4219.23472088
+10 Oregon 4173.21896147
+11 Texas A&M 4115.71136363
+12 Virginia Tech 4083.15737891
+13 Auburn 4035.51295503
+14 South Carolina 3988.72585403
+15 Florida 3959.78495093
+16 Penn State 3905.91572385
+17 Baylor 3790.16756143
+18 Georgia 3781.54950981
+19 Tennessee 3745.48501545
+20 Mississippi State 3664.55634707
+21 Vanderbilt 3645.49992769
+22 Cincinnati 2960.74007249
+23 Texas Tech 47.9058390136
+24 Oklahoma 38.1155996629
+25 Nevada 31.2458908751
+26 Texas 28.1329204835
+27 Tulsa 26.5821900237
+28 Michigan State 19.6482406595
+29 Wisconsin 19.6322416002
+30 Nebraska 19.5268207782
+31 USC 19.4761798691
+32 Arizona State 19.4075160167
+33 Washington 18.8631465003
+34 Michigan 18.7619890569
+35 Missouri 18.5123640257
+36 Miami (FL) 18.0224746803
+37 Syracuse 17.9713270874
+38 Wake Forest 17.9667193367
+39 Ohio State 17.6348981058
+40 Iowa State 17.6094334555
+41 California 17.5718067587
+42 Notre Dame 17.3817929465
+43 West Virginia 17.2031798831
+44 Illinois 17.1594600398
+45 Florida State 17.0847138984
+46 Georgia Tech 17.0459308524
+47 North Carolina 17.0052526238
+48 Utah 16.8885467263
+49 Southern Miss 16.7506266009
+50 Brigham Young 16.7291713671
+51 Toledo 16.6285381543
+52 Southern Methodist 16.5727807035
+53 Iowa 16.3757843152
+54 Rutgers 16.3061471993
+55 TCU 16.1975654292
+56 UCLA 16.1602919575
+57 North Carolina State 16.1140609895
+58 Arkansas State 15.910990096
+59 Arizona 15.8459032554
+60 Purdue 15.6740809853
+61 Eastern Michigan 15.6643533337
+62 Oregon State 15.6468974345
+63 Virginia 15.5957453992
+64 Kansas 15.4869067254
+65 South Florida 15.4736960055
+66 Duke 15.3916290878
+67 San Diego State 15.3666718767
+68 Maryland 15.2033578092
+69 East Carolina 15.1015501067
+70 Pittsburgh 15.0861417782
+71 Temple 14.9810861457
+72 Rice 14.9650598459
+73 Connecticut 14.9007863376
+74 Marshall 14.844958777
+75 Louisville 14.7844831731
+76 Ole Miss 14.7293451162
+77 Western Michigan 14.5692590463
+78 Kentucky 14.4396258254
+79 Ball State 14.3806301221
+80 San Jose State 14.2834923639
+81 Florida International 14.1531651604
+82 Louisiana-Lafayette 14.1144046276
+83 Northern Illinois 13.9283802054
+84 Air Force 13.9175739025
+85 Washington State 13.5859573267
+86 UTEP 13.4199039119
+87 Bowling Green 13.3465581499
+88 Ohio 13.2211708221
+89 Western Kentucky 13.1400750472
+90 Navy 13.132302895
+91 Central Michigan 13.0557424549
+92 Wyoming 13.042696431
+93 Fresno State 12.727975001
+94 Buffalo 12.6581624539
+95 Hawaii 12.5409256844
+96 North Texas 12.4858156002
+97 UNLV 12.3314548381
+98 Louisiana-Monroe 11.7425835563
+99 Louisiana Tech 11.6598314494
+100 UCF 11.5647584665
+101 Colorado 11.4625812554
+102 Troy 11.2086224846
+103 Colorado State 10.9121649669
+104 New Mexico State 10.8560589083
+105 Utah State 10.8091099986
+106 Minnesota 10.2162300054
+107 Middle Tennessee 10.1600293732
+108 Miami (OH) 9.59506661956
+109 UAB 9.55674833234
+110 Memphis 9.36993990194
+111 Army 9.07761698459
+112 Tulane 8.62200310361
+113 Akron -19.5353631255
+114 Northwestern -23.7343200786
+115 New Mexico -179.267965989
+116 Indiana -823.31847306
+117 Idaho -825.93650681
+118 Kent State -830.172573915
+119 Florida Atlantic -830.172573915
+120 Boston College -2109.67694263
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+10 2011
+Optimization terminated successfully.
+         Current function value: -14092923437094542499643392.000000
+         Iterations: 26
+         Function evaluations: 141008
+1 Alabama 385.721540422
+2 LSU 384.95430417
+3 Houston 384.95430417
+4 Stanford 382.069213894
+5 Oklahoma State 378.34502694
+6 Boise State 375.552320562
+7 Arkansas 317.992681136
+8 Oregon 316.852118974
+9 Penn State 313.139020145
+10 Oklahoma 34.9388228281
+11 Kansas State 34.6979230984
+12 Auburn 34.6364882178
+13 South Carolina 34.5085565024
+14 Clemson 34.2514978605
+15 Georgia 33.9356881442
+16 Texas A&M 33.7701714258
+17 Texas 33.5761384398
+18 Missouri 33.1888625003
+19 Virginia Tech 33.1711526187
+20 Arizona State 33.1528158976
+21 Tulsa 32.8018325946
+22 Nebraska 32.7703278116
+23 Baylor 32.6922050618
+24 Texas Tech 32.5919929533
+25 USC 32.538871334
+26 Florida 32.4647101435
+27 Michigan State 31.9746426599
+28 Washington 31.839268591
+29 Georgia Tech 31.819897726
+30 Iowa State 31.7599405892
+31 Michigan 31.7125000057
+32 Tennessee 31.476752669
+33 Wisconsin 31.4060702055
+34 Ohio State 31.3160268661
+35 North Carolina 31.2978788036
+36 Miami (FL) 31.0971313177
+37 Cincinnati 31.0442773757
+38 Southern Miss 31.0074338289
+39 Mississippi State 30.9221230201
+40 Vanderbilt 30.9096605889
+41 Illinois 30.9070514162
+42 Virginia 30.4879817029
+43 Notre Dame 30.4661558942
+44 Wake Forest 30.4575428952
+45 West Virginia 30.4514653062
+46 Southern Methodist 30.4222548351
+47 Florida State 30.3489042065
+48 Nevada 30.2940832775
+49 Syracuse 30.2302909406
+50 TCU 30.0770722755
+51 UCLA 29.9456719762
+52 Arkansas State 29.8526089573
+53 Utah 29.8008316356
+54 Toledo 29.6626933277
+55 California 29.6498657918
+56 Rutgers 29.5445255519
+57 Kansas 29.4362764277
+58 North Carolina State 29.4264180149
+59 Purdue 29.3343967056
+60 Louisville 29.2853495453
+61 Brigham Young 29.2422678877
+62 East Carolina 29.0590686916
+63 Arizona 29.0499883573
+64 Eastern Michigan 28.9619108889
+65 Duke 28.9292359702
+66 Marshall 28.9163281625
+67 Rice 28.8350836251
+68 Oregon State 28.5470694958
+69 South Florida 28.4516046645
+70 Kentucky 28.3924123286
+71 Louisiana-Lafayette 28.3459724375
+72 Florida International 28.3404626517
+73 Western Michigan 28.1579115843
+74 Pittsburgh 28.153649208
+75 San Diego State 28.0420567222
+76 Iowa 27.9526576362
+77 Wyoming 27.9426687701
+78 Northern Illinois 27.701934661
+79 Connecticut 27.5750251839
+80 Ole Miss 27.561928285
+81 Temple 27.4954895439
+82 Ball State 27.3306037364
+83 Minnesota 27.3018401217
+84 Western Kentucky 27.2728874894
+85 Air Force 27.2391730764
+86 UTEP 27.1910987601
+87 Washington State 27.1178994253
+88 San Jose State 27.1098119861
+89 Louisiana Tech 27.1064192993
+90 Ohio 26.9938292935
+91 Navy 26.8439601625
+92 Hawaii 26.8434166598
+93 UNLV 26.6856774032
+94 UCF 26.6442450299
+95 Bowling Green 26.6355618878
+96 Central Michigan 26.5533361263
+97 Miami (OH) 26.5232890669
+98 North Texas 26.3307194789
+99 Maryland 26.2570927583
+100 Fresno State 26.1346008515
+101 Kent State 25.7169489689
+102 New Mexico State 25.6817962513
+103 Buffalo 25.5183006567
+104 Army 25.4947760422
+105 Louisiana-Monroe 25.3143882321
+106 Colorado 25.3014115575
+107 Boston College 25.2510927432
+108 Northwestern 25.2381591894
+109 Troy 25.2361620041
+110 Utah State 24.9768874361
+111 Colorado State 24.6083205902
+112 Middle Tennessee 24.3800648881
+113 UAB 24.2284343172
+114 Memphis 23.8744631795
+115 Tulane 23.6838246307
+116 Florida Atlantic -11.6737465459
+117 Idaho -76.2226350282
+118 Indiana -229.781668741
+119 Akron -229.781668741
+120 New Mexico -229.781668741
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+11 2011
+Optimization terminated successfully.
+         Current function value: -123300957407582093312000.000000
+         Iterations: 20
+         Function evaluations: 107055
+1 LSU 410.651984811
+2 Boise State 373.812421171
+3 Alabama 370.807069736
+4 Houston 367.909342409
+5 Stanford 366.569236809
+6 Oregon 363.488027356
+7 Oklahoma State 361.257297261
+8 Arkansas 331.001616928
+9 Penn State 330.868975238
+10 Oklahoma 35.4828408948
+11 Auburn 35.0485253635
+12 South Carolina 35.003924772
+13 Kansas State 34.9509276547
+14 Georgia 34.5181793399
+15 Texas 34.4971582068
+16 Clemson 34.3868191192
+17 Texas A&M 33.6986294501
+18 Baylor 33.393114304
+19 Tulsa 33.2756145645
+20 Florida 33.2429185346
+21 Virginia Tech 33.14453867
+22 Missouri 32.5984096751
+23 Texas Tech 32.5898779703
+24 Tennessee 32.170953586
+25 Iowa State 32.0994494598
+26 USC 32.061916289
+27 Arizona State 31.8617271506
+28 Georgia Tech 31.7979474484
+29 Cincinnati 31.7442036941
+30 Mississippi State 31.5382831132
+31 Southern Miss 31.4029239832
+32 Washington 31.3292654149
+33 UCLA 31.3151971886
+34 Michigan State 31.204014293
+35 Nebraska 31.133889998
+36 Miami (FL) 30.934158378
+37 Vanderbilt 30.8976659594
+38 Southern Methodist 30.8263554994
+39 Wisconsin 30.8234895883
+40 North Carolina 30.7908187388
+41 Michigan 30.6653171881
+42 Ohio State 30.6239190577
+43 Virginia 30.5999824987
+44 TCU 30.5938648071
+45 Illinois 30.5797210156
+46 Notre Dame 30.5479514163
+47 Florida State 30.4171864369
+48 Nevada 30.1963069632
+49 North Carolina State 30.1386011267
+50 California 30.1110829023
+51 Utah 30.1085705601
+52 Iowa 30.0520463561
+53 Wake Forest 30.0009010942
+54 Arkansas State 29.9063158953
+55 West Virginia 29.8271430544
+56 Rutgers 29.7313140417
+57 Louisville 29.7149830078
+58 Kansas 29.6738880705
+59 Brigham Young 29.4527621139
+60 Syracuse 29.3720650164
+61 Kentucky 29.2176424346
+62 Marshall 29.1882894872
+63 Rice 29.1676521682
+64 Purdue 29.1490442836
+65 East Carolina 28.956224325
+66 Arizona 28.9295980957
+67 Pittsburgh 28.8680196819
+68 Louisiana-Lafayette 28.8574916207
+69 South Florida 28.7721696308
+70 Oregon State 28.708273426
+71 Duke 28.6759624826
+72 Northern Illinois 28.6032617771
+73 Connecticut 28.5772685292
+74 Toledo 28.5691936182
+75 San Diego State 28.4030091953
+76 Western Michigan 28.3802283544
+77 Western Kentucky 28.365385519
+78 Florida International 28.1530216142
+79 Wyoming 28.1123077047
+80 Northwestern 28.0631152452
+81 Air Force 28.0466699391
+82 Ball State 28.0252801039
+83 Ohio 27.9619707121
+84 Minnesota 27.8404663025
+85 Eastern Michigan 27.8125409936
+86 Navy 27.6097555693
+87 Louisiana Tech 27.4636718886
+88 Temple 27.3919972268
+89 Ole Miss 27.3792849776
+90 UTEP 27.213271508
+91 Washington State 27.2073112286
+92 Miami (OH) 27.1001543547
+93 UCF 27.0245267759
+94 Bowling Green 27.0047322421
+95 Kent State 26.8113701006
+96 UNLV 26.6229600992
+97 Maryland 26.61907715
+98 North Texas 26.5459001808
+99 Army 26.4447330628
+100 Fresno State 26.4319041705
+101 Hawaii 26.4036844374
+102 Central Michigan 26.3143598062
+103 San Jose State 26.3054656438
+104 Boston College 26.2717516118
+105 Buffalo 26.148442858
+106 Utah State 26.1156410911
+107 New Mexico State 25.9254362594
+108 Louisiana-Monroe 25.6584246893
+109 Troy 25.3955216264
+110 Colorado 25.2651592292
+111 Idaho 24.893982968
+112 Colorado State 24.7990683464
+113 Middle Tennessee 24.6907616722
+114 UAB 24.5116910219
+115 Memphis 24.216324403
+116 Tulane 24.0619027738
+117 Indiana -43.0738959098
+118 Akron -43.0738959098
+119 New Mexico -43.0738959098
+120 Florida Atlantic -43.0738959098
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+12 2011
+Optimization terminated successfully.
+         Current function value: -2759219154323904512.000000
+         Iterations: 22
+         Function evaluations: 116600
+1 LSU 424.215351683
+2 Oklahoma State 396.798946618
+3 Houston 396.798946618
+4 Oregon 385.465451143
+5 Alabama 342.185669865
+6 Stanford 307.121545869
+7 Arkansas 291.730980414
+8 Kansas State 35.0706716945
+9 Oklahoma 35.0584465185
+10 South Carolina 33.8508019845
+11 Baylor 33.5359366689
+12 Clemson 33.4578849704
+13 Texas A&M 33.4276508835
+14 Georgia 33.3346130779
+15 Boise State 33.2658256015
+16 Auburn 33.2564588409
+17 Texas 33.0715848311
+18 Missouri 32.9045735857
+19 Virginia Tech 32.842867433
+20 USC 32.2867491994
+21 Texas Tech 32.1840422292
+22 TCU 31.9490958936
+23 Florida 31.9025839306
+24 Penn State 31.9023023872
+25 Iowa State 31.8937904689
+26 Tulsa 31.861393181
+27 Nebraska 31.8611280849
+28 Michigan State 31.743904283
+29 Michigan 31.3568146589
+30 Washington 31.2759236489
+31 Wisconsin 31.1739149171
+32 Southern Miss 31.0075250932
+33 Notre Dame 30.9921078677
+34 Georgia Tech 30.9828659688
+35 Tennessee 30.9051337696
+36 Arizona State 30.8659252568
+37 Mississippi State 30.76441651
+38 Vanderbilt 30.5909868814
+39 Florida State 30.5882515383
+40 Cincinnati 30.4579401577
+41 Utah 30.3700223379
+42 California 30.3136268748
+43 UCLA 30.3124274146
+44 Nevada 30.3076119683
+45 West Virginia 30.23669959
+46 Ohio State 30.2291987663
+47 Illinois 30.2150224715
+48 North Carolina 30.2061539566
+49 Iowa 30.1684597661
+50 Miami (FL) 30.1243942914
+51 Arkansas State 30.092842503
+52 Virginia 30.0519781931
+53 Rutgers 29.8658320655
+54 Brigham Young 29.7893427186
+55 Southern Methodist 29.7673142808
+56 Purdue 29.7657393997
+57 Wake Forest 29.7631688912
+58 San Diego State 29.4376007104
+59 Kansas 29.4176559447
+60 South Florida 29.3669705816
+61 Pittsburgh 29.3573213255
+62 Wyoming 29.3102349102
+63 Louisville 29.2175682266
+64 Syracuse 29.1216105694
+65 Marshall 29.1023041761
+66 Northwestern 29.1013586556
+67 North Carolina State 28.9787127439
+68 Toledo 28.9458943448
+69 Rice 28.870849543
+70 Northern Illinois 28.8327535273
+71 Connecticut 28.7491984993
+72 Washington State 28.7314213539
+73 Kentucky 28.6749342102
+74 Louisiana-Lafayette 28.670275149
+75 Oregon State 28.5550912956
+76 Duke 28.5316780945
+77 Air Force 28.4687391079
+78 Western Kentucky 28.3936228602
+79 Ohio 28.3700707244
+80 Navy 28.3519325525
+81 Western Michigan 28.3304654059
+82 Ball State 28.3253210831
+83 Louisiana Tech 28.2896716016
+84 Minnesota 28.2549748457
+85 UTEP 28.2455021616
+86 Florida International 28.1402403662
+87 Eastern Michigan 28.1223857454
+88 East Carolina 28.0756549235
+89 Temple 27.9648110018
+90 Boston College 27.6291000604
+91 Arizona 27.5843291529
+92 UCF 27.3471047072
+93 Hawaii 27.324568749
+94 Utah State 27.3066705306
+95 Colorado 27.2956010808
+96 Maryland 27.2840518241
+97 Bowling Green 27.2162201932
+98 New Mexico State 27.1032072445
+99 Miami (OH) 27.0861551533
+100 North Texas 26.9168674053
+101 Kent State 26.9026773751
+102 San Jose State 26.8867002765
+103 Ole Miss 26.8619650932
+104 UNLV 26.8347383348
+105 Army 26.7345683518
+106 Fresno State 26.5016639673
+107 Colorado State 26.2648285268
+108 Buffalo 26.2440189893
+109 Central Michigan 26.2236804848
+110 Louisiana-Monroe 25.9200781399
+111 New Mexico 25.8469025173
+112 Idaho 25.4885224805
+113 Troy 25.2023991488
+114 UAB 24.7239550935
+115 Middle Tennessee 23.9377886015
+116 Tulane 23.8417842327
+117 Memphis 23.3908623162
+118 Indiana -75.4938043446
+119 Florida Atlantic -77.4938039662
+120 Akron -88.9095067793
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+13 2011
+Optimization terminated successfully.
+         Current function value: -138055161588506.906250
+         Iterations: 21
+         Function evaluations: 109700
+1 LSU 447.516554693
+2 Alabama 367.806283686
+3 Houston 361.050004568
+4 Arkansas 198.70010203
+5 Oklahoma State 34.8080347364
+6 Kansas State 34.1598625241
+7 Oklahoma 33.7283908532
+8 Baylor 33.503353422
+9 South Carolina 33.252066605
+10 Stanford 33.063348655
+11 Oregon 33.0418555751
+12 Texas A&M 32.8761476222
+13 Boise State 32.7831038721
+14 Georgia 32.7745416537
+15 Missouri 32.5522864371
+16 Auburn 32.437627648
+17 Texas 32.4282092265
+18 USC 32.282910579
+19 Iowa State 32.213070701
+20 Virginia Tech 32.1919796155
+21 Clemson 31.7728442611
+22 TCU 31.6664631057
+23 Penn State 31.6255256539
+24 Michigan State 31.4654611984
+25 Michigan 31.4072131383
+26 Texas Tech 31.3899952846
+27 Florida 31.3446329858
+28 Tulsa 31.2830702259
+29 Nebraska 31.0984840046
+30 Wisconsin 30.9664391645
+31 Tennessee 30.7588193337
+32 Notre Dame 30.7447298468
+33 Georgia Tech 30.7320500676
+34 Mississippi State 30.4648798209
+35 Iowa 30.2430518104
+36 Utah 30.1522607861
+37 Washington 30.1170641059
+38 UCLA 30.0888347716
+39 Virginia 30.0821110215
+40 North Carolina 30.0131181729
+41 Arizona State 29.9662950331
+42 California 29.9517975469
+43 Miami (FL) 29.9431949266
+44 West Virginia 29.9051027126
+45 Florida State 29.8727869394
+46 Cincinnati 29.8679893707
+47 Southern Miss 29.8434560998
+48 Rutgers 29.8433597476
+49 Brigham Young 29.8194110875
+50 Arkansas State 29.7631699059
+51 Ohio State 29.7307535385
+52 Vanderbilt 29.6740217677
+53 Illinois 29.6608417472
+54 Wake Forest 29.5120197527
+55 North Carolina State 29.3472502691
+56 Purdue 29.1829023601
+57 Kansas 29.1381718266
+58 San Diego State 29.1205652595
+59 Southern Methodist 29.1047652372
+60 Louisville 29.0709121138
+61 Pittsburgh 29.0547876845
+62 Wyoming 29.0164796743
+63 Oregon State 29.0053842908
+64 Northwestern 28.9645199613
+65 South Florida 28.8194270653
+66 Nevada 28.8077185404
+67 Syracuse 28.7956503098
+68 Marshall 28.7528384337
+69 Northern Illinois 28.7321338288
+70 Louisiana Tech 28.6847762148
+71 Arizona 28.5922312607
+72 Toledo 28.5761603053
+73 Louisiana-Lafayette 28.5169776965
+74 Rice 28.4275651289
+75 Kentucky 28.3783047419
+76 Washington State 28.377474026
+77 Ohio 28.2230686879
+78 Duke 28.2118766752
+79 Western Kentucky 28.2061234241
+80 Air Force 28.1484383949
+81 Connecticut 28.1050219689
+82 East Carolina 28.0263632456
+83 Florida International 27.9789202013
+84 Western Michigan 27.9474546621
+85 UTEP 27.8300925661
+86 Ball State 27.6875306681
+87 Temple 27.6808510571
+88 Minnesota 27.6333304941
+89 Navy 27.5665557014
+90 Utah State 27.4060736033
+91 Boston College 27.3431770268
+92 Eastern Michigan 27.1402524981
+93 San Jose State 27.1167050751
+94 Colorado 27.1135491539
+95 Kent State 27.0542326486
+96 UCF 27.0121075769
+97 Ole Miss 26.9700414623
+98 Maryland 26.8939506567
+99 Fresno State 26.8611908716
+100 Hawaii 26.851526441
+101 New Mexico State 26.8360477637
+102 Bowling Green 26.8335856277
+103 North Texas 26.597651505
+104 Miami (OH) 26.5906219041
+105 UNLV 26.2722442291
+106 Army 26.1986563837
+107 UAB 26.1759518189
+108 Colorado State 26.0452626438
+109 Central Michigan 25.850152971
+110 Louisiana-Monroe 25.7677929331
+111 Buffalo 25.7401326359
+112 Troy 25.4528363931
+113 New Mexico 25.4308803317
+114 Idaho 25.2960819683
+115 Tulane 24.3528622833
+116 Middle Tennessee 24.1772694889
+117 Memphis 23.9006756046
+118 Indiana -33.0749971627
+119 Florida Atlantic -224.142035571
+120 Akron -224.142035829
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+14 2011
+Optimization terminated successfully.
+         Current function value: -17884257155470.789062
+         Iterations: 24
+         Function evaluations: 126549
+1 LSU 390.817788623
+2 Houston 375.141389692
+3 Alabama 354.004415876
+4 Arkansas 220.231009058
+5 Oklahoma State 34.8191708186
+6 Kansas State 34.1866330203
+7 Oklahoma 33.8721967544
+8 Baylor 33.5534412226
+9 Stanford 33.5240398353
+10 Oregon 33.4392426113
+11 South Carolina 33.3096593565
+12 Boise State 32.9007368768
+13 Texas 32.783239584
+14 Georgia 32.7605497708
+15 USC 32.6457988825
+16 Missouri 32.5638458429
+17 Texas A&M 32.5516305377
+18 Auburn 32.3136332074
+19 Virginia Tech 32.1761441842
+20 Iowa State 32.0899414121
+21 TCU 31.8324787283
+22 Michigan State 31.6866374846
+23 Clemson 31.6121768864
+24 Michigan 31.5783247144
+25 Wisconsin 31.44521792
+26 Tulsa 31.4010160356
+27 Nebraska 31.3662773457
+28 Texas Tech 31.26693753
+29 Penn State 31.1137318164
+30 Notre Dame 30.7804817218
+31 Mississippi State 30.6953357555
+32 Georgia Tech 30.5364788079
+33 Florida 30.5227696419
+34 Washington 30.4896400014
+35 California 30.4137226942
+36 UCLA 30.2322902819
+37 Florida State 30.2102491328
+38 West Virginia 30.1069456345
+39 Iowa 30.0705253685
+40 Brigham Young 29.9735996394
+41 Virginia 29.9727676525
+42 North Carolina 29.9291446784
+43 Utah 29.9156646145
+44 Vanderbilt 29.9027398895
+45 Southern Miss 29.8867393013
+46 Arizona State 29.8314477468
+47 Cincinnati 29.8244443314
+48 Tennessee 29.7794058917
+49 Arkansas State 29.6989048585
+50 Ohio State 29.6161850202
+51 Rutgers 29.4450619182
+52 North Carolina State 29.4226311334
+53 Southern Methodist 29.4141318172
+54 Miami (FL) 29.4093334147
+55 San Diego State 29.3705522258
+56 Wake Forest 29.3704528806
+57 Louisville 29.2951485454
+58 Wyoming 29.2827326007
+59 Illinois 29.2186749832
+60 Oregon State 29.1940279811
+61 Purdue 29.1475862887
+62 Kentucky 29.1010987479
+63 Arizona 29.0849509732
+64 Kansas 29.066355117
+65 Marshall 28.9906784413
+66 Northwestern 28.9820041884
+67 Louisiana Tech 28.910643929
+68 Pittsburgh 28.8582130488
+69 Northern Illinois 28.8398845336
+70 Toledo 28.7302125261
+71 Syracuse 28.6708740203
+72 Washington State 28.5395425637
+73 Connecticut 28.5375311548
+74 South Florida 28.4905781659
+75 Western Kentucky 28.4443326326
+76 Air Force 28.4037839707
+77 Nevada 28.398705007
+78 Minnesota 28.3908360771
+79 Louisiana-Lafayette 28.3475722418
+80 Ohio 28.3109183093
+81 Rice 28.1918734794
+82 Duke 28.1855474572
+83 Florida International 28.1481512054
+84 Colorado 28.0821292219
+85 Boston College 28.0820884338
+86 Utah State 28.0555084038
+87 Western Michigan 27.971708603
+88 Temple 27.8713638083
+89 East Carolina 27.7525897806
+90 Navy 27.6793804014
+91 Ball State 27.522423393
+92 San Jose State 27.4928996373
+93 UCF 27.4776733422
+94 UTEP 27.3824939941
+95 Hawaii 27.1401994908
+96 Ole Miss 27.1399137195
+97 Maryland 27.0157417878
+98 Bowling Green 27.00629202
+99 Eastern Michigan 26.9318207582
+100 New Mexico State 26.8869053142
+101 Kent State 26.8453481173
+102 Fresno State 26.8213542041
+103 North Texas 26.8207871657
+104 Miami (OH) 26.5653907922
+105 UNLV 26.3763375489
+106 Colorado State 26.2176550508
+107 Army 26.1976471624
+108 Louisiana-Monroe 26.0066144242
+109 Central Michigan 25.8080309306
+110 Troy 25.6286208704
+111 New Mexico 25.5350741891
+112 Idaho 25.4970945592
+113 Buffalo 25.480202836
+114 UAB 25.3394173525
+115 Middle Tennessee 24.814428476
+116 Florida Atlantic 24.3267257573
+117 Tulane 24.0262846523
+118 Memphis 23.8640974854
+119 Indiana -9.70969187769
+120 Akron -13.7400775475
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+15 2011
+Optimization terminated successfully.
+         Current function value: -152553419421413.593750
+         Iterations: 23
+         Function evaluations: 120463
+1 LSU 384.11400241
+2 Alabama 306.914977628
+3 Arkansas 267.596456441
+4 Oklahoma State 35.0861850021
+5 Kansas State 34.2643845511
+6 Baylor 33.709456326
+7 Oklahoma 33.6779867635
+8 Stanford 33.4706520702
+9 Oregon 33.4287197728
+10 South Carolina 33.4230703716
+11 Boise State 32.8058512705
+12 Georgia 32.7987379342
+13 USC 32.5785722821
+14 Texas 32.5628196279
+15 Missouri 32.5088168836
+16 Texas A&M 32.4970416169
+17 Auburn 32.4407972517
+18 Iowa State 31.9651290125
+19 Clemson 31.9455984344
+20 TCU 31.842093004
+21 Virginia Tech 31.7725229561
+22 Wisconsin 31.7396562277
+23 Houston 31.6410052324
+24 Michigan 31.4995087118
+25 Michigan State 31.3906897179
+26 Nebraska 31.3458310702
+27 Texas Tech 31.2039220651
+28 Penn State 31.14990678
+29 Tulsa 30.7889000751
+30 Mississippi State 30.7421331649
+31 Notre Dame 30.7108226526
+32 Florida 30.5590503627
+33 Georgia Tech 30.5547433352
+34 Southern Miss 30.5207084869
+35 Washington 30.4273116429
+36 California 30.3256040883
+37 Florida State 30.255163923
+38 West Virginia 30.1878520662
+39 Virginia 30.0493010764
+40 Iowa 30.0331185703
+41 UCLA 30.0285614805
+42 Brigham Young 29.9774165666
+43 North Carolina 29.9313888403
+44 Cincinnati 29.9225328997
+45 Vanderbilt 29.895425908
+46 Utah 29.8567352728
+47 Tennessee 29.8125930301
+48 Arizona State 29.749360841
+49 Arkansas State 29.6618368739
+50 Ohio State 29.5909661944
+51 North Carolina State 29.4644351639
+52 San Diego State 29.4126650388
+53 Rutgers 29.4097322432
+54 Miami (FL) 29.3931839993
+55 Southern Methodist 29.3546235611
+56 Wake Forest 29.3434925513
+57 Wyoming 29.3337023056
+58 Louisville 29.271582523
+59 Illinois 29.194452004
+60 Oregon State 29.1316119998
+61 Purdue 29.1262943793
+62 Kansas 29.1136665177
+63 Kentucky 29.1050300181
+64 Northern Illinois 29.0341193
+65 Pittsburgh 29.0123793361
+66 Arizona 29.0056598167
+67 Northwestern 28.9393889323
+68 Marshall 28.9298017043
+69 Louisiana Tech 28.9172361882
+70 Toledo 28.6886708014
+71 Washington State 28.47222184
+72 Western Kentucky 28.4291947875
+73 Syracuse 28.4234871493
+74 Air Force 28.3948969321
+75 Connecticut 28.3948170157
+76 Nevada 28.3865562057
+77 South Florida 28.3729449894
+78 Minnesota 28.338281569
+79 Louisiana-Lafayette 28.3161264742
+80 Duke 28.1773036369
+81 Rice 28.1500204727
+82 Utah State 28.1420181068
+83 Florida International 28.1283766124
+84 Ohio 28.0698869478
+85 Boston College 28.0698233641
+86 Colorado 28.0014040511
+87 Western Michigan 27.9400027558
+88 Temple 27.7990785208
+89 East Carolina 27.7298358095
+90 Navy 27.6755522633
+91 Ball State 27.4663604225
+92 UCF 27.4510092987
+93 San Jose State 27.4335300821
+94 UTEP 27.312596003
+95 Ole Miss 27.101439561
+96 Hawaii 27.0436495993
+97 Maryland 27.0060384474
+98 Bowling Green 26.9489001184
+99 Eastern Michigan 26.9040311364
+100 North Texas 26.8669812839
+101 Kent State 26.7899767216
+102 Fresno State 26.7124267098
+103 New Mexico State 26.6958182701
+104 Miami (OH) 26.5013063879
+105 UNLV 26.3147727315
+106 Army 26.1585125328
+107 Colorado State 26.1367690197
+108 Louisiana-Monroe 26.0719493396
+109 Central Michigan 25.7612011831
+110 Troy 25.5374842018
+111 New Mexico 25.4502018361
+112 Buffalo 25.4256585368
+113 Idaho 25.3549754553
+114 UAB 25.2145635434
+115 Middle Tennessee 24.5966950697
+116 Florida Atlantic 24.035223327
+117 Tulane 23.9188707219
+118 Memphis 23.7287234462
+119 Indiana -8.777199172
+120 Akron -13.8496667932
+121 Tennessee-Martin None
+122 Presbyterian None
+123 Georgia State None
+124 Richmond None
+125 Grambling State None
+126 Sam Houston State None
+127 South Dakota State None
+128 North Dakota State None
+129 Missouri State None
+130 Idaho State None
+131 Stephen F. Austin None
+132 Western Illinois None
+133 Tennessee Tech None
+134 Central Arkansas None
+135 Eastern Washington None
+136 NC Central None
+137 Southern Illinois None
+138 Tennessee State None
+139 Indiana State None
+140 Southeastern Louisiana None
+141 Sacramento State None
+142 Delaware None
+143 Fordham None
+144 Appalachian State None
+145 Nicholls State None
+146 Montana State None
+147 Coastal Carolina None
+148 South Dakota None
+149 Morgan State None
+150 William & Mary None
+151 Southeast Missouri State None
+152 Murray State None
+153 Wofford None
+154 Cal Poly None
+155 Northern Iowa None
+156 Villanova None
+157 Towson None
+158 Austin Peay None
+159 Furman None
+160 Jacksonville State None
+161 Liberty None
+162 Norfolk State None
+163 Western Carolina None
+164 Eastern Kentucky None
+165 South Alabama None
+166 Southern Utah None
+167 Howard None
+168 North Dakota None
+169 Stony Brook None
+170 Florida A&M None
+171 Texas State None
+172 Virginia Military Institute None
+173 UC Davis None
+174 Montana None
+175 New Hampshire None
+176 Massachusetts None
+177 Charleston Southern None
+178 James Madison None
+179 Citadel None
+180 Alabama State None
+181 Chattanooga None
+182 Georgia Southern None
+183 Northern Arizona None
+184 Northern Colorado None
+185 Rhode Island None
+186 Northwestern State None
+187 Elon None
+188 Eastern Illinois None
+189 McNeese State None
+190 Bethune-Cookman None
+191 Gardner-Webb None
+192 Weber State None
+193 South Carolina State None
+194 Portland State None
+195 Samford None
+196 Youngstown State None
+197 Maine None
+
+8 2012
+Optimization terminated successfully.
+         Current function value: -44354151379374572178403518640568009752576.000000
+         Iterations: 28
+         Function evaluations: 174309
+1 Florida 1197.21425802
+2 Kansas State 1196.2930454
+3 Oklahoma 1101.15889617
+4 LSU 1087.72478404
+5 Texas Tech 1045.81544461
+6 South Carolina 1023.49566609
+7 Iowa State 985.975609343
+8 West Virginia 950.410462157
+9 Georgia 922.381284489
+10 Alabama 905.278554866
+11 Louisville 897.248411033
+12 Ohio State 897.248411033
+13 Notre Dame 897.248411033
+14 Cincinnati 897.248411033
+15 Mississippi State 897.248411033
+16 Oregon State 897.248411033
+17 Oregon 897.248411033
+18 Ohio 897.248411033
+19 Rutgers 896.956834402
+20 TCU 875.182681349
+21 Western Kentucky 860.084956646
+22 Michigan 858.65867616
+23 Tennessee 808.529157254
+24 Texas 806.541151226
+25 Tulsa 803.445435026
+26 Baylor 785.65974778
+27 Texas A&M 55.5114409512
+28 Louisiana Tech 55.5114407238
+29 Stanford 54.238839534
+30 USC 54.2380555482
+31 Washington 54.2378903696
+32 Arizona 46.4754579782
+33 Ole Miss 44.6634632314
+34 Toledo 38.7124928075
+35 Arkansas 34.6650860456
+36 Louisiana-Monroe 34.5510747486
+37 Florida State 34.5027367628
+38 North Carolina State 34.3277813103
+39 Clemson 34.3215740252
+40 Miami (FL) 34.0900177279
+41 Auburn 33.8160766904
+42 Northwestern 33.80067578
+43 North Carolina 33.6332828254
+44 Kentucky 33.4538855813
+45 Iowa 33.1902263287
+46 Penn State 33.1615398523
+47 Vanderbilt 33.1063779783
+48 Middle Tennessee 32.8691879753
+49 Duke 32.5795935755
+50 Northern Illinois 32.4862654998
+51 Missouri 32.4120603904
+52 Virginia Tech 32.3940962064
+53 Maryland 32.3878570934
+54 Michigan State 32.3527933653
+55 Minnesota 32.3014288
+56 Kent State 32.2426850058
+57 Pittsburgh 32.1781328828
+58 Wake Forest 31.9997296344
+59 Syracuse 31.9636268464
+60 Arizona State 31.7140422671
+61 Temple 31.4302550993
+62 Georgia Tech 31.1875021768
+63 Virginia 31.1118035843
+64 Ball State 31.0318497876
+65 Wisconsin 30.7279908754
+66 Central Michigan 30.6822627225
+67 Nebraska 30.6821039212
+68 UCLA 30.6375212062
+69 Boise State 30.6122029762
+70 Connecticut 30.1786509425
+71 Navy 30.1711988671
+72 South Florida 30.0771470821
+73 Nevada 30.0501316093
+74 California 30.0231270382
+75 San Jose State 29.8599390219
+76 Illinois 29.7637860275
+77 Utah State 29.5501082093
+78 Western Michigan 29.4909207058
+79 Brigham Young 28.8696983714
+80 Utah 28.8124021328
+81 Fresno State 22.3376535136
+82 San Diego State 14.0625979622
+83 Oklahoma State 13.9057843195
+84 Washington State 5.79095219525
+85 UNLV 5.79080100597
+86 Air Force 5.79064939722
+87 Colorado 5.79062312062
+88 Colorado State 5.79029857372
+89 UCF -1.52736568379
+90 Buffalo -3.33597001621
+91 New Mexico -6.65077170818
+92 Purdue -8.58119469182
+93 Bowling Green -13.1113704627
+94 Arkansas State -15.9298821997
+95 Army -17.6108778066
+96 Indiana -20.7658509959
+97 Louisiana-Lafayette -21.9010907927
+98 Wyoming -33.482208165
+99 East Carolina -35.4867183226
+100 Texas State -42.9103102201
+101 Eastern Michigan -44.9248929122
+102 Marshall -52.3399729364
+103 Tulane -57.1539667802
+104 Boston College -57.5319283868
+105 Troy -58.1426184431
+106 Florida International -76.8936426037
+107 Memphis -83.9276068405
+108 Idaho -85.8637141358
+109 Houston -91.4345442897
+110 Southern Methodist -94.395025633
+111 North Texas -126.857612709
+112 Rice -128.903151354
+113 UTEP -143.458996603
+114 Florida Atlantic -161.622135485
+115 UTSA -165.639784925
+116 Miami (OH) -183.734206868
+117 South Alabama -201.218237639
+118 Southern Miss -204.107787587
+119 Akron -242.08275324
+120 Kansas -277.677605782
+121 New Mexico State -346.014005196
+122 Massachusetts -355.803969337
+123 Hawaii -421.466202595
+124 UAB -946.690375837
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+9 2012
+Optimization terminated successfully.
+         Current function value: -203871375402750525772938177786134710980706304.000000
+         Iterations: 44
+         Function evaluations: 269208
+1 Florida 3049.83757346
+2 LSU 2890.63947583
+3 Kansas State 2724.21095523
+4 South Carolina 2673.55679291
+5 Oklahoma 2657.52248286
+6 Texas Tech 2560.09959
+7 Mississippi State 2439.34945255
+8 Alabama 2437.12745225
+9 Louisville 2432.57767676
+10 Ohio State 2432.57767676
+11 Oregon 2432.57767676
+12 Ohio 2432.57767676
+13 Notre Dame 2432.57767676
+14 Rutgers 2426.81224962
+15 Oregon State 2425.37649371
+16 Georgia 2387.65936628
+17 West Virginia 2387.40570468
+18 Texas 2329.05753162
+19 Michigan 2311.76861187
+20 Tennessee 2100.07396063
+21 Stanford 133.489023852
+22 Arizona 132.960979326
+23 USC 132.96097928
+24 Washington 132.432915519
+25 Oklahoma State 113.166207285
+26 Toledo 99.2006680479
+27 Iowa State 93.3715377381
+28 Texas A&M 92.5711271112
+29 Louisiana Tech 92.5711271072
+30 TCU 73.5846112233
+31 Cincinnati 66.0991974366
+32 Ole Miss 62.6033456077
+33 Tulsa 61.8113990616
+34 Baylor 53.8247542756
+35 Florida State 34.3121142551
+36 Louisiana-Monroe 34.0651361952
+37 Clemson 33.8684963096
+38 North Carolina State 33.7810820396
+39 Arkansas 33.7066710885
+40 Vanderbilt 33.5991955704
+41 Nebraska 33.4353446384
+42 Penn State 33.1488917954
+43 Northwestern 33.1002312749
+44 Western Kentucky 32.9924201806
+45 Missouri 32.9033613705
+46 Wisconsin 32.8678664537
+47 Miami (FL) 32.7290603757
+48 Auburn 32.7035160833
+49 Duke 32.5660569476
+50 Arizona State 32.2153892528
+51 Middle Tennessee 32.1844898188
+52 UCLA 32.1768178918
+53 Iowa 32.1758957498
+54 Michigan State 32.1453630479
+55 North Carolina 32.0975552749
+56 Kentucky 31.9225112746
+57 Northern Illinois 31.7672532513
+58 Boise State 31.7316040856
+59 Maryland 31.5805572939
+60 Wake Forest 31.5789716099
+61 Virginia Tech 31.5151454485
+62 Kent State 31.5137525599
+63 Pittsburgh 31.4138104821
+64 Syracuse 31.3108218897
+65 Minnesota 31.2888044507
+66 San Jose State 30.9401944835
+67 Utah State 30.9158183676
+68 Ball State 30.7668000497
+69 Temple 30.7547968549
+70 Fresno State 30.5172998142
+71 Georgia Tech 30.3031593857
+72 Navy 30.2882073608
+73 Illinois 30.2270928713
+74 Virginia 30.1832146353
+75 Brigham Young 30.1392407419
+76 California 30.1119887604
+77 Utah 30.0754712151
+78 Central Michigan 29.8687654199
+79 Connecticut 29.347797539
+80 South Florida 29.314244694
+81 San Diego State 29.3027863242
+82 Western Michigan 29.0657692505
+83 Nevada 28.8573963181
+84 Air Force 19.5936886664
+85 Colorado State 19.5935329757
+86 Washington State 19.5935064248
+87 Colorado 19.5934689175
+88 UNLV 19.5933502476
+89 UCF 17.6000344933
+90 New Mexico 8.67790084473
+91 East Carolina 2.29669582126
+92 Purdue -1.37818192705
+93 Arkansas State -1.58575100166
+94 Texas State -2.23789298852
+95 Southern Methodist -12.5153724656
+96 Louisiana-Lafayette -12.8366024557
+97 UTEP -13.0034475815
+98 Houston -13.1542521539
+99 Troy -13.3181972649
+100 Tulane -13.4890139277
+101 North Texas -13.8025969445
+102 Bowling Green -15.7658512999
+103 Buffalo -15.9753287455
+104 Memphis -38.2786810438
+105 Eastern Michigan -42.630263501
+106 Marshall -43.1471136461
+107 Florida International -51.3616012416
+108 Miami (OH) -57.0679499377
+109 Indiana -66.2356694144
+110 Wyoming -68.5608503688
+111 Army -81.6864789339
+112 Rice -83.9392303041
+113 Akron -108.18538853
+114 Idaho -113.911417958
+115 UTSA -125.574204437
+116 Boston College -131.36019564
+117 New Mexico State -157.606649124
+118 Kansas -176.127828292
+119 UAB -202.007112814
+120 Massachusetts -232.240102625
+121 Hawaii -292.887361329
+122 South Alabama -433.911547227
+123 Florida Atlantic -485.02366746
+124 Southern Miss -1932.82776007
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+10 2012
+Optimization terminated successfully.
+         Current function value: -2538448071968659068350313510792841173925888.000000
+         Iterations: 48
+         Function evaluations: 277660
+1 Kansas State 6843.65313693
+2 Notre Dame 6651.09467886
+3 Oklahoma 6465.9883808
+4 Texas Tech 6264.20353898
+5 West Virginia 6044.71360193
+6 Alabama 5546.47870118
+7 Texas 5544.06090564
+8 Ohio State 5515.47867594
+9 Oregon 5513.10585731
+10 Mississippi State 5502.89334314
+11 Louisville 5499.47128145
+12 Florida 124.977454431
+13 LSU 124.449421793
+14 Georgia 124.449398428
+15 South Carolina 123.921342634
+16 Stanford 104.654383516
+17 Washington 104.126334951
+18 Oregon State 104.126334214
+19 Arizona 104.12633349
+20 USC 103.598286801
+21 Tennessee 90.9399331232
+22 Oklahoma State 90.3607092808
+23 Texas A&M 85.9735488946
+24 Louisiana Tech 85.9735488659
+25 Toledo 80.9989917848
+26 Iowa State 76.5951088133
+27 TCU 62.8267385774
+28 Ole Miss 60.4979074596
+29 Cincinnati 57.8837066644
+30 Tulsa 55.0967167779
+31 Baylor 49.0498021393
+32 Nebraska 36.4937687898
+33 Michigan 35.8096070455
+34 Florida State 35.6987428929
+35 Vanderbilt 35.6605120878
+36 Clemson 35.6284376883
+37 UCLA 35.5310322755
+38 Northwestern 35.3868732117
+39 Louisiana-Monroe 35.2728678849
+40 Missouri 35.2230513831
+41 Boise State 35.0650892914
+42 Michigan State 35.0135888059
+43 Rutgers 34.9976343355
+44 Kent State 34.7784272816
+45 Wisconsin 34.6775928147
+46 Arkansas 34.5006121953
+47 Western Kentucky 34.4408686455
+48 Penn State 34.1604505068
+49 North Carolina 34.1460828402
+50 Auburn 34.1150119101
+51 Duke 34.1122639511
+52 Iowa 34.0795364236
+53 Northern Illinois 34.0583601476
+54 Arizona State 33.9888570466
+55 Miami (FL) 33.9660765757
+56 North Carolina State 33.9353962884
+57 Virginia Tech 33.867633405
+58 Ohio 33.7970962911
+59 Utah State 33.7305547871
+60 Bowling Green 33.7258503364
+61 San Jose State 33.6828890368
+62 Pittsburgh 33.6713202533
+63 Kentucky 33.6130548037
+64 Fresno State 33.5906026193
+65 Middle Tennessee 33.4784023227
+66 Miami (OH) 33.4317501721
+67 Brigham Young 33.4182392536
+68 Minnesota 33.3718509678
+69 Ball State 33.2635191553
+70 Syracuse 33.2028867553
+71 Utah 33.1187541301
+72 Navy 32.9495964181
+73 Wake Forest 32.5971282729
+74 Central Michigan 32.3370348241
+75 San Diego State 31.9680379094
+76 Purdue 31.7156783299
+77 Georgia Tech 31.6822926175
+78 California 31.4213632218
+79 Maryland 31.3165350899
+80 Indiana 31.2621563907
+81 Temple 31.045946156
+82 Virginia 30.9876130369
+83 Eastern Michigan 30.4825684098
+84 Illinois 30.4806790655
+85 South Florida 30.2494647912
+86 Boston College 30.1071094148
+87 Western Michigan 30.0184209692
+88 Connecticut 29.9524894428
+89 Nevada 29.9303064034
+90 Air Force 29.9276043121
+91 Army 29.8444174059
+92 Colorado State 29.2098879172
+93 Colorado 28.8947032609
+94 UNLV 28.6688427892
+95 Washington State 28.6466317013
+96 UCF 23.179934892
+97 New Mexico 19.5479214833
+98 Arkansas State 16.3656885276
+99 East Carolina 10.8022970238
+100 Marshall 9.87911989973
+101 Texas State 9.19925902263
+102 Southern Methodist -0.924715342752
+103 Houston -1.14761996358
+104 Memphis -2.17322460415
+105 UTEP -2.37672387362
+106 Louisiana-Lafayette -2.4807263537
+107 Tulane -2.71659188649
+108 North Texas -3.08593546341
+109 Rice -3.4235555599
+110 Hawaii -3.61239842287
+111 Troy -3.83274423688
+112 UTSA -4.19836956174
+113 Florida Atlantic -4.75069949485
+114 South Alabama -4.97318321178
+115 Buffalo -6.95252609389
+116 Wyoming -13.9123021411
+117 UAB -20.4118245178
+118 Florida International -40.5472479389
+119 Idaho -57.1500177973
+120 New Mexico State -79.1731706563
+121 Massachusetts -540.470900416
+122 Southern Miss -2445.52934468
+123 Akron -4153.34676687
+124 Kansas -5493.9747067
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+11 2012
+Optimization terminated successfully.
+         Current function value: -29056659721307423453362615231348473856.000000
+         Iterations: 34
+         Function evaluations: 191086
+1 Notre Dame 703.719531608
+2 Kansas State 666.905718704
+3 Louisville 660.976889206
+4 Oregon 660.976889206
+5 Alabama 659.399161439
+6 Ohio State 642.435180474
+7 Oklahoma 618.664848249
+8 Florida 49.5189386969
+9 LSU 48.9984638685
+10 Georgia 48.992365924
+11 South Carolina 48.4657911016
+12 Louisiana Tech 43.2649282693
+13 Texas A&M 43.2649265334
+14 Mississippi State 38.3063486428
+15 Stanford 35.1706340737
+16 Oregon State 35.0366927799
+17 Texas 34.8290166713
+18 Texas Tech 34.7698335457
+19 Washington 34.7193839385
+20 Arizona 34.5295867859
+21 USC 34.1186871788
+22 Oklahoma State 33.7570439582
+23 UCLA 33.5389923102
+24 Tennessee 33.3268123534
+25 West Virginia 33.3248598069
+26 Nebraska 33.1601278423
+27 Toledo 33.065215084
+28 Iowa State 33.0340520942
+29 TCU 32.6263109859
+30 Ole Miss 32.2295436269
+31 Michigan 31.8343817586
+32 Cincinnati 31.52226671
+33 Vanderbilt 31.2062068083
+34 Clemson 31.038094501
+35 Missouri 30.9951247077
+36 Northwestern 30.9821510915
+37 Florida State 30.9786520004
+38 Wisconsin 30.2068644241
+39 Arizona State 30.1942343074
+40 Rutgers 30.180518033
+41 Baylor 30.1022118131
+42 Michigan State 30.070752591
+43 Kent State 30.060807561
+44 San Jose State 29.6159171535
+45 Penn State 29.6140106093
+46 Miami (FL) 29.4577473826
+47 Utah State 29.4251959784
+48 Northern Illinois 29.3353615527
+49 North Carolina 29.2565977049
+50 Duke 29.2493723169
+51 Arkansas 29.1849594816
+52 Utah 29.0131254873
+53 Boise State 28.9767803806
+54 Ball State 28.9519262336
+55 Pittsburgh 28.862598501
+56 Middle Tennessee 28.825520894
+57 Brigham Young 28.8056229102
+58 Iowa 28.7668998539
+59 Navy 28.757362071
+60 Minnesota 28.7226434562
+61 Tulsa 28.676851513
+62 Virginia Tech 28.6464342532
+63 Syracuse 28.6028353722
+64 Ohio 28.5933333346
+65 UCF 28.5925845829
+66 Louisiana-Monroe 28.5209696186
+67 Auburn 28.5172310668
+68 San Diego State 28.510331445
+69 North Carolina State 28.3438485308
+70 Wake Forest 28.3354548072
+71 Indiana 28.2199077174
+72 Kentucky 28.1488174988
+73 Fresno State 28.1279423605
+74 Western Kentucky 28.1106645706
+75 Bowling Green 27.8951191418
+76 Georgia Tech 27.681756899
+77 California 27.5886893722
+78 Virginia 27.5413312164
+79 Purdue 27.2041388389
+80 Illinois 27.1560566279
+81 Temple 26.9848341967
+82 Maryland 26.9518954131
+83 Western Michigan 26.901092216
+84 Central Michigan 26.8904344745
+85 Arkansas State 26.801026364
+86 South Florida 26.7821330288
+87 Miami (OH) 26.4517380516
+88 Nevada 26.364885919
+89 Army 26.171384189
+90 Connecticut 26.1283599597
+91 Eastern Michigan 26.0398259669
+92 Boston College 25.9552978389
+93 Buffalo 25.9494331063
+94 Air Force 25.7540192441
+95 East Carolina 25.7074563126
+96 Louisiana-Lafayette 25.2456271224
+97 UNLV 24.9920239775
+98 Marshall 24.7786338236
+99 Wyoming 24.4475641146
+100 Washington State 24.4361385841
+101 Colorado 24.1477950221
+102 Colorado State 23.9442591954
+103 New Mexico 23.8287750064
+104 Southern Methodist 23.4201236612
+105 Texas State 23.358896296
+106 Houston 23.1007841855
+107 North Texas 22.9484170276
+108 Troy 22.6779616036
+109 Memphis 22.4056388879
+110 Rice 22.0126744529
+111 UTEP 21.895342949
+112 Tulane 21.6150749147
+113 Florida International 21.4731057783
+114 UTSA 21.2215949053
+115 Florida Atlantic 21.1647199371
+116 South Alabama 20.4328402002
+117 Massachusetts -8.20025908627
+118 Idaho -9.78757065832
+119 UAB -11.9665122073
+120 Akron -12.5845598273
+121 Kansas -14.0626465026
+122 Hawaii -21.2142457877
+123 New Mexico State -45.834341462
+124 Southern Miss -47.9276677076
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+12 2012
+Optimization terminated successfully.
+         Current function value: -24068431277776530681065478872367104.000000
+         Iterations: 23
+         Function evaluations: 126649
+1 Notre Dame 399.907912901
+2 Kansas State 360.669926302
+3 Oregon 357.165270498
+4 Ohio State 340.404515268
+5 Oklahoma 245.414913394
+6 Florida 44.3951039774
+7 Georgia 43.7520634062
+8 LSU 43.3532961159
+9 Alabama 43.1119467571
+10 South Carolina 43.1088413192
+11 Louisiana Tech 42.8652375764
+12 Texas A&M 42.8652366769
+13 Mississippi State 36.439372812
+14 Stanford 35.698838156
+15 Washington 34.8058795766
+16 Oregon State 34.7130955667
+17 Texas 34.6081294179
+18 Arizona 34.4984589143
+19 USC 34.3249835586
+20 Texas Tech 34.3090390052
+21 Oklahoma State 33.7926469783
+22 UCLA 33.6561600708
+23 Nebraska 33.6233749039
+24 Michigan 32.7611708732
+25 Iowa State 32.6148723997
+26 West Virginia 32.5604201562
+27 TCU 32.228600809
+28 Vanderbilt 32.1903403224
+29 Missouri 32.062923609
+30 Northwestern 31.1778611976
+31 Clemson 31.1175774407
+32 Ole Miss 30.9327953974
+33 Florida State 30.9244930478
+34 Arizona State 30.7036043322
+35 Wisconsin 30.6870642856
+36 Rutgers 30.5702311701
+37 Kent State 30.5096991866
+38 Tennessee 30.4117614312
+39 Michigan State 30.3711575277
+40 Louisville 30.3383256772
+41 Toledo 30.2189995447
+42 Baylor 29.9091729994
+43 Cincinnati 29.7860155566
+44 Utah State 29.7754068142
+45 San Jose State 29.7523008747
+46 Ball State 29.6948616932
+47 UCF 29.663567111
+48 Northern Illinois 29.5673714094
+49 Penn State 29.5665940989
+50 Utah 29.3993127836
+51 Boise State 29.3952421642
+52 Arkansas 29.2700758655
+53 Middle Tennessee 29.2247593147
+54 Brigham Young 29.2096393899
+55 Syracuse 29.1828565299
+56 Minnesota 29.1704648681
+57 Arkansas State 29.0824597624
+58 Tulsa 29.0462580482
+59 Duke 29.0283480511
+60 San Diego State 28.9374262202
+61 Fresno State 28.7265381995
+62 Miami (FL) 28.6774788323
+63 Louisiana-Monroe 28.622403177
+64 Auburn 28.5638386898
+65 North Carolina State 28.5006549683
+66 Iowa 28.4882189548
+67 North Carolina 28.4416442942
+68 Purdue 28.3527114643
+69 Bowling Green 28.3205857095
+70 Virginia Tech 28.2183575747
+71 Kentucky 28.2000459898
+72 Navy 28.1834115391
+73 Georgia Tech 28.175567701
+74 Western Kentucky 28.1606545766
+75 Virginia 28.1258136249
+76 Indiana 28.0711620812
+77 Wake Forest 27.9974261444
+78 Ohio 27.9612910608
+79 California 27.9447990917
+80 Louisiana-Lafayette 27.9115331544
+81 Pittsburgh 27.8603875195
+82 Maryland 27.2206892135
+83 South Florida 27.1699290357
+84 Troy 27.0803454599
+85 Temple 27.0751861564
+86 Central Michigan 27.0473390434
+87 Connecticut 26.9078270468
+88 Illinois 26.8967576695
+89 Buffalo 26.6754672953
+90 Miami (OH) 26.670273887
+91 Nevada 26.6639038446
+92 East Carolina 26.6619912121
+93 Western Michigan 26.658951662
+94 North Texas 26.5284267302
+95 Army 26.2681403405
+96 Florida Atlantic 26.2120484203
+97 Air Force 26.0637750847
+98 Boston College 26.0485924533
+99 Eastern Michigan 25.9272504161
+100 Wyoming 25.4222325079
+101 Southern Methodist 25.3906538206
+102 Colorado State 25.2112039562
+103 Houston 25.2068404646
+104 Florida International 24.9757462624
+105 Colorado 24.9187191333
+106 UNLV 24.7799192134
+107 Washington State 24.728009701
+108 Marshall 24.4896313966
+109 Texas State 24.348955957
+110 Memphis 24.2240107558
+111 New Mexico 23.9316373227
+112 South Alabama 23.9294814769
+113 UTSA 23.8806976374
+114 UTEP 23.8693482673
+115 Rice 23.8541495782
+116 Tulane 23.694532166
+117 UAB 23.5786094549
+118 Massachusetts 1.95044636617
+119 Southern Miss -13.6741589225
+120 Hawaii -17.2731430619
+121 Kansas -18.8476404893
+122 Idaho -25.5998190258
+123 Akron -47.4731191658
+124 New Mexico State -67.1464988305
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+13 2012
+Optimization terminated successfully.
+         Current function value: -1979143239699141871936954240598016.000000
+         Iterations: 24
+         Function evaluations: 130405
+1 Ohio State 359.214849689
+2 Notre Dame 357.397262287
+3 Florida 38.1678342668
+4 Georgia 37.6716552249
+5 Stanford 37.5665311852
+6 Oregon 37.3154396469
+7 LSU 37.2206341266
+8 South Carolina 37.0431773152
+9 Alabama 36.9087784877
+10 Kansas State 36.5209413896
+11 Oklahoma 36.5090092999
+12 Oregon State 36.2289317378
+13 Nebraska 35.7627450372
+14 Texas A&M 35.7398481024
+15 Arizona 35.7357882939
+16 UCLA 35.7268976777
+17 Washington 35.7159344014
+18 Texas 35.3136223017
+19 Oklahoma State 35.0694616623
+20 USC 34.987007568
+21 Michigan 34.7738037367
+22 Texas Tech 34.5079132902
+23 Louisiana Tech 34.0237248401
+24 Mississippi State 33.969306828
+25 Iowa State 33.8029465578
+26 West Virginia 33.6921385817
+27 Vanderbilt 33.6404271551
+28 TCU 33.5200416948
+29 Northwestern 33.5017142274
+30 Rutgers 33.2367188018
+31 Clemson 33.2327588564
+32 Wisconsin 33.1315116237
+33 Utah State 33.0918304822
+34 Kent State 32.9626868018
+35 Florida State 32.9402285681
+36 Baylor 32.9239529093
+37 San Jose State 32.8320829779
+38 Louisville 32.5430950394
+39 Ole Miss 32.4705203779
+40 Northern Illinois 32.441359647
+41 Missouri 32.335930903
+42 Michigan State 32.3315305114
+43 Arizona State 32.0350509006
+44 Ball State 31.9973313042
+45 Syracuse 31.8687082469
+46 Penn State 31.8523798376
+47 Toledo 31.8411546958
+48 Cincinnati 31.7550637972
+49 Boise State 31.5651706365
+50 Utah 31.5334449203
+51 Minnesota 31.51786315
+52 Tulsa 31.4528020757
+53 Brigham Young 31.4172817944
+54 Arkansas 31.2760590692
+55 Arkansas State 31.2745776005
+56 San Diego State 31.2596788758
+57 Tennessee 31.1897888182
+58 Middle Tennessee 31.1689688264
+59 Fresno State 30.9752631001
+60 Miami (FL) 30.8294799201
+61 Purdue 30.8179165937
+62 Iowa 30.7789921891
+63 Louisiana-Monroe 30.7484192963
+64 North Carolina 30.6109933721
+65 Duke 30.5802528323
+66 Georgia Tech 30.5157189955
+67 Auburn 30.4775707275
+68 Louisiana-Lafayette 30.3820889852
+69 North Carolina State 30.3316341703
+70 Virginia Tech 30.3042307839
+71 Navy 30.2709535033
+72 Bowling Green 30.1951488928
+73 UCF 30.168076042
+74 Indiana 30.0349985398
+75 Pittsburgh 29.9974457902
+76 Kentucky 29.9617268452
+77 Virginia 29.8811046892
+78 Wake Forest 29.8747218895
+79 California 29.8598502317
+80 Ohio 29.8516480685
+81 Western Kentucky 29.7961451397
+82 Central Michigan 29.425878924
+83 Temple 29.3391035999
+84 Maryland 29.1994302181
+85 South Florida 29.1809623425
+86 Connecticut 28.900814017
+87 Troy 28.8749128438
+88 Nevada 28.7124982128
+89 Illinois 28.5878965917
+90 Eastern Michigan 28.5295752769
+91 Buffalo 28.5139566681
+92 East Carolina 28.399871733
+93 Western Michigan 28.2737982778
+94 Miami (OH) 28.2011424802
+95 North Texas 28.1851416403
+96 Army 28.1812723763
+97 Air Force 28.0470987362
+98 Boston College 27.9235030035
+99 Florida International 27.6969107858
+100 Wyoming 27.6512069162
+101 Florida Atlantic 27.483065376
+102 Colorado State 27.1667993558
+103 Marshall 27.0807771548
+104 Colorado 26.7934503002
+105 Houston 26.5524956266
+106 Washington State 26.5066386221
+107 UNLV 26.4328165433
+108 Southern Methodist 26.4073570989
+109 Memphis 26.3659224127
+110 Rice 26.3312833439
+111 UTSA 26.1709636836
+112 South Alabama 26.0212995884
+113 Texas State 25.9459162365
+114 New Mexico 25.6559604097
+115 Tulane 25.4079804583
+116 UTEP 25.3044719021
+117 UAB 25.0813454863
+118 Massachusetts -9.01292519396
+119 Idaho -11.9031265249
+120 Southern Miss -12.0433806193
+121 Kansas -31.9262379292
+122 Hawaii -41.4814719606
+123 Akron -45.9495018507
+124 New Mexico State -48.0394805584
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+14 2012
+Optimization terminated successfully.
+         Current function value: -1231801525871617885486717075456.000000
+         Iterations: 22
+         Function evaluations: 119484
+1 Notre Dame 336.019902444
+2 Ohio State 323.419757513
+3 Florida 37.5075072059
+4 Georgia 37.0851441731
+5 South Carolina 36.4329677093
+6 LSU 36.3790337219
+7 Stanford 36.2388607264
+8 Alabama 36.166758316
+9 Oregon 36.0737063752
+10 Oklahoma 35.8645904625
+11 Kansas State 35.8032451274
+12 Nebraska 35.0703534179
+13 Texas A&M 34.8990164056
+14 Oregon State 34.533528575
+15 UCLA 34.3445862472
+16 Michigan 34.3259651676
+17 Texas 34.0568030035
+18 Oklahoma State 33.9758496818
+19 Arizona 33.7771194782
+20 USC 33.6344737287
+21 Vanderbilt 33.539827593
+22 Washington 33.4166115582
+23 TCU 33.3689126041
+24 West Virginia 33.3212883413
+25 Texas Tech 33.3102735377
+26 Northwestern 33.2882121565
+27 San Jose State 33.2281221168
+28 Clemson 33.1263335104
+29 Baylor 32.9421479467
+30 Florida State 32.9349541863
+31 Iowa State 32.8270211748
+32 Louisiana Tech 32.692052901
+33 Ole Miss 32.6794641824
+34 Utah State 32.6504880909
+35 Mississippi State 32.5961922774
+36 Arizona State 32.5745645144
+37 Kent State 32.5125854813
+38 Northern Illinois 32.3237369772
+39 Missouri 32.225658607
+40 Penn State 32.2105621832
+41 Wisconsin 32.2019829269
+42 Michigan State 32.1825580075
+43 Rutgers 32.0045234056
+44 Ball State 31.8421407772
+45 Toledo 31.6614332491
+46 Louisville 31.5259085662
+47 Syracuse 31.52145919
+48 Boise State 31.5144270195
+49 Cincinnati 31.4871096909
+50 Utah 31.3954732365
+51 Brigham Young 31.3948774188
+52 San Diego State 31.2507540144
+53 Tennessee 31.1535293359
+54 Arkansas State 31.1210836991
+55 Miami (FL) 31.0999712379
+56 Middle Tennessee 31.041459634
+57 Minnesota 31.0155510536
+58 Purdue 30.830210641
+59 Fresno State 30.811567848
+60 North Carolina 30.6708017002
+61 Pittsburgh 30.6141312952
+62 Arkansas 30.6072025791
+63 Iowa 30.5907146862
+64 Virginia Tech 30.549616358
+65 Louisiana-Monroe 30.5427732414
+66 Georgia Tech 30.510635588
+67 North Carolina State 30.4370773978
+68 Duke 30.3629160003
+69 Bowling Green 30.3473653849
+70 Navy 30.3136150749
+71 Louisiana-Lafayette 30.2415695157
+72 California 30.212807304
+73 Tulsa 30.1216323138
+74 Auburn 30.0940164376
+75 UCF 30.0260364934
+76 Ohio 29.8642059017
+77 Wake Forest 29.8035191498
+78 Virginia 29.6998472231
+79 Western Kentucky 29.6805586116
+80 Indiana 29.6774833867
+81 Connecticut 29.4908209221
+82 Temple 29.3740404841
+83 Central Michigan 29.3725213562
+84 Kentucky 29.3094958483
+85 South Florida 29.1994582806
+86 Maryland 29.1440450388
+87 Nevada 28.9226768973
+88 East Carolina 28.9177034328
+89 Washington State 28.8874930945
+90 Troy 28.7335788653
+91 Buffalo 28.5634081022
+92 Eastern Michigan 28.5123712694
+93 Illinois 28.442656359
+94 Air Force 28.3181955396
+95 Western Michigan 28.3079642514
+96 Army 28.1946416738
+97 Miami (OH) 28.173476364
+98 Colorado 28.1271077677
+99 North Texas 28.0692768547
+100 Wyoming 27.9521056389
+101 Colorado State 27.9101502453
+102 Southern Methodist 27.8816015691
+103 Boston College 27.8430893208
+104 Florida International 27.5705813592
+105 Marshall 27.4350328392
+106 Florida Atlantic 27.4235142904
+107 Rice 27.2260962462
+108 UTSA 27.214334087
+109 Houston 27.2110869194
+110 Memphis 27.0597799765
+111 UNLV 26.5323618627
+112 South Alabama 26.2456316644
+113 New Mexico 26.1663631452
+114 Texas State 26.0221163947
+115 Tulane 25.9090974159
+116 Hawaii 25.8327580134
+117 UTEP 25.7361318654
+118 UAB 25.5796116561
+119 Idaho -8.40286794523
+120 Massachusetts -10.6576556697
+121 New Mexico State -43.8185218433
+122 Akron -45.9890922229
+123 Kansas -68.3101204213
+124 Southern Miss -71.6263653985
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+15 2012
+Optimization terminated successfully.
+         Current function value: -1561289373089688767721925246976.000000
+         Iterations: 25
+         Function evaluations: 136936
+1 Ohio State 375.195361825
+2 Notre Dame 361.003753412
+3 Florida 37.0557116958
+4 Alabama 36.7093579105
+5 Stanford 36.3257283799
+6 LSU 36.3048942
+7 Oregon 36.0821615212
+8 Kansas State 36.0665961231
+9 Oklahoma 36.0598929856
+10 Georgia 36.0466908569
+11 South Carolina 35.9739905808
+12 Texas A&M 34.9299637225
+13 Oregon State 34.5195525123
+14 Nebraska 34.1945125841
+15 Michigan 34.0996728879
+16 UCLA 34.0685305695
+17 Texas 34.0251971354
+18 Arizona 33.6777083599
+19 Oklahoma State 33.6631188344
+20 USC 33.5532904432
+21 Baylor 33.4017121062
+22 Washington 33.3906405271
+23 TCU 33.3878881455
+24 West Virginia 33.3829729166
+25 Texas Tech 33.3739042351
+26 San Jose State 33.3613607697
+27 Vanderbilt 33.3423308846
+28 Northwestern 33.1471703621
+29 Clemson 33.0748435426
+30 Florida State 32.9679942498
+31 Iowa State 32.9004240739
+32 Utah State 32.8697595642
+33 Wisconsin 32.8423085202
+34 Northern Illinois 32.8335957511
+35 Louisiana Tech 32.8115930315
+36 Ole Miss 32.5643289205
+37 Arizona State 32.4958477658
+38 Mississippi State 32.451836409
+39 Penn State 32.2801120132
+40 Michigan State 32.2678798388
+41 Missouri 32.0925994547
+42 Kent State 31.9813237433
+43 Louisville 31.8588327697
+44 Ball State 31.8313425946
+45 Toledo 31.7422199442
+46 Boise State 31.6868566735
+47 Rutgers 31.5689131459
+48 Cincinnati 31.5364497229
+49 Syracuse 31.4896993051
+50 Brigham Young 31.4685874943
+51 Utah 31.4113802602
+52 San Diego State 31.3788620637
+53 Arkansas State 31.3737032948
+54 Minnesota 31.1040294582
+55 Miami (FL) 31.0296868414
+56 Tennessee 31.0175839801
+57 Fresno State 30.964273605
+58 Purdue 30.9552862362
+59 Pittsburgh 30.684771894
+60 Iowa 30.6775216805
+61 North Carolina 30.6264691452
+62 Middle Tennessee 30.5684736134
+63 Virginia Tech 30.5068367873
+64 Arkansas 30.5034942934
+65 Louisiana-Monroe 30.4248548557
+66 Georgia Tech 30.3752379421
+67 North Carolina State 30.360845128
+68 Tulsa 30.305799237
+69 Navy 30.2937183116
+70 Duke 30.2885543243
+71 Bowling Green 30.2697016828
+72 California 30.228077845
+73 Louisiana-Lafayette 30.1741109942
+74 Auburn 29.9803308749
+75 Ohio 29.7865001264
+76 Indiana 29.7563599036
+77 Wake Forest 29.7441926478
+78 Virginia 29.6378259501
+79 UCF 29.5623136797
+80 Western Kentucky 29.5094433196
+81 Central Michigan 29.3982817523
+82 Connecticut 29.3789265577
+83 Temple 29.3227515908
+84 Kentucky 29.1889109848
+85 Maryland 29.0721775875
+86 South Florida 29.033734873
+87 Washington State 28.9729755405
+88 Nevada 28.9702108704
+89 East Carolina 28.7285272851
+90 Buffalo 28.5197367002
+91 Troy 28.5102513123
+92 Eastern Michigan 28.5044399529
+93 Illinois 28.5018983372
+94 Air Force 28.4660493196
+95 Western Michigan 28.3003480797
+96 Colorado 28.2597200786
+97 Army 28.1901198254
+98 Miami (OH) 28.1378665508
+99 Colorado State 28.1228851469
+100 Wyoming 28.1197434593
+101 North Texas 27.8143406447
+102 Boston College 27.7916814114
+103 Southern Methodist 27.7119632852
+104 Marshall 27.2721169375
+105 Florida International 27.2509425642
+106 Houston 27.0561405654
+107 Florida Atlantic 27.0534705835
+108 Rice 27.0516361792
+109 UTSA 26.9354408187
+110 Memphis 26.8787929435
+111 UNLV 26.7901996196
+112 Hawaii 26.428134907
+113 New Mexico 26.3987900429
+114 Texas State 25.9897627008
+115 Tulane 25.7431625887
+116 UTEP 25.5692466999
+117 South Alabama 25.5383751879
+118 UAB 25.4079946566
+119 Kansas -16.2049832945
+120 Massachusetts -16.6852029895
+121 Idaho -21.0111170901
+122 Southern Miss -35.3835220912
+123 Akron -51.5640722232
+124 New Mexico State -129.99076296
+125 Wagner None
+126 Tennessee-Martin None
+127 Southern University None
+128 Georgia State None
+129 Richmond None
+130 Grambling State None
+131 Lamar None
+132 Sam Houston State None
+133 Sacramento State None
+134 Missouri State None
+135 Idaho State None
+136 Stephen F. Austin None
+137 Western Illinois None
+138 Tennessee Tech None
+139 Central Arkansas None
+140 Nicholls State None
+141 Furman None
+142 Eastern Washington None
+143 Northern Arizona None
+144 NC Central None
+145 Southern Illinois None
+146 Indiana State None
+147 Southeastern Louisiana None
+148 Illinois State None
+149 Alabama A&M None
+150 Jackson State None
+151 Appalachian State None
+152 Coastal Carolina None
+153 South Dakota None
+154 Morgan State None
+155 keyError None
+156 William & Mary None
+157 Southeast Missouri State None
+158 Murray State None
+159 Wofford None
+160 Gardner-Webb None
+161 Northern Iowa None
+162 Villanova None
+163 Towson None
+164 Austin Peay None
+165 Jacksonville State None
+166 Liberty None
+167 Texas Southern None
+168 Norfolk State None
+169 Western Carolina None
+170 Eastern Kentucky None
+171 Savannah State None
+172 Southern Utah None
+173 Howard None
+174 North Dakota None
+175 Stony Brook None
+176 Presbyterian None
+177 Northern Colorado None
+178 Florida A&M None
+179 Virginia Military Institute None
+180 UC Davis None
+181 New Hampshire None
+182 Charleston Southern None
+183 James Madison None
+184 Citadel None
+185 Chattanooga None
+186 Georgia Southern None
+187 Alcorn State None
+188 Rhode Island None
+189 Northwestern State None
+190 Elon None
+191 Eastern Illinois None
+192 Delaware State None
+193 McNeese State None
+194 Fordham None
+195 North Dakota State None
+196 Bethune-Cookman None
+197 South Dakota State None
+198 Weber State None
+199 South Carolina State None
+200 Portland State None
+201 Cal Poly None
+202 Samford None
+203 Youngstown State None
+204 Maine None
+
+9 2013
+Optimization terminated successfully.
+         Current function value: -745786749600063817645149570604348584493056.000000
+         Iterations: 39
+         Function evaluations: 250003
+1 Florida State 1529.32263751
+2 Alabama 1476.44475798
+3 Virginia Tech 1427.11354066
+4 Pittsburgh 1317.63417331
+5 Missouri 1280.01366024
+6 Miami (FL) 1280.01366024
+7 Oregon State 1280.01366024
+8 Oregon 1280.01366024
+9 Baylor 1280.01366024
+10 Northern Illinois 1280.01366024
+11 Ohio State 1278.74936373
+12 Texas Tech 1269.67911683
+13 Clemson 1242.36182541
+14 Buffalo 1206.43607942
+15 San Diego State 1206.02400902
+16 Auburn 58.5204960972
+17 Texas A&M 58.1007296906
+18 Ole Miss 57.6809633226
+19 LSU 57.6790309463
+20 Georgia 57.6724641768
+21 Florida 56.8436384833
+22 Vanderbilt 56.2791743446
+23 Tennessee 56.0102228806
+24 South Carolina 55.8594766859
+25 UCF 47.4482884302
+26 Louisville 39.0367432322
+27 Stanford 34.6315883633
+28 UCLA 33.780791841
+29 Arizona State 33.4847020812
+30 Washington State 33.2999868437
+31 Notre Dame 33.082650139
+32 Utah 32.9323900719
+33 Oklahoma 32.8867004238
+34 Colorado 32.5797168209
+35 Michigan 32.5694572855
+36 Washington 32.391542577
+37 Michigan State 32.3651929289
+38 Texas 32.3559506868
+39 USC 31.9700198655
+40 Arizona 31.7621369669
+41 Fresno State 31.6758825028
+42 Brigham Young 31.6531742682
+43 Wisconsin 31.503217129
+44 Iowa 31.4200738714
+45 Georgia Tech 31.3388906173
+46 Penn State 31.3159314537
+47 Rutgers 30.5901777574
+48 Duke 30.5566503793
+49 Boston College 30.5112926383
+50 Minnesota 30.474954809
+51 Oklahoma State 30.3128286245
+52 Maryland 30.1941855447
+53 West Virginia 30.131412617
+54 Northwestern 29.5186429449
+55 Ball State 29.4609876541
+56 Arkansas 29.3919661374
+57 Indiana 29.3531301353
+58 Virginia 29.2163882428
+59 Kansas State 29.1543628341
+60 Syracuse 29.1067178104
+61 Wake Forest 29.0525653623
+62 Toledo 28.9837843126
+63 South Alabama 28.8079046901
+64 Tulane 28.8051376476
+65 Mississippi State 28.6407630851
+66 TCU 28.5749002458
+67 Houston 28.5729463759
+68 UNLV 28.3836364298
+69 Western Kentucky 28.2488473678
+70 Louisiana-Lafayette 28.2002071556
+71 East Carolina 28.066738866
+72 Navy 28.0179063842
+73 Louisiana-Monroe 27.9808706942
+74 North Texas 27.9279782221
+75 North Carolina State 27.5063981995
+76 Ohio 27.3950711449
+77 Troy 26.9686978058
+78 Southern Methodist 26.9458429722
+79 North Carolina 26.8756102044
+80 Central Michigan 26.858999477
+81 Arkansas State 26.2304812736
+82 Middle Tennessee 25.7471265756
+83 Memphis 25.4927184337
+84 Boise State 10.2570572936
+85 Rice 7.28914191731
+86 Marshall 6.70047205185
+87 Iowa State -0.785751702427
+88 California -2.25485544691
+89 Nebraska -6.17270717146
+90 Bowling Green -9.0401123214
+91 Utah State -13.6889071005
+92 Florida Atlantic -13.9944455605
+93 Nevada -26.4118734192
+94 Texas State -31.438588401
+95 Kansas -34.0393787697
+96 San Jose State -37.9428716285
+97 Massachusetts -40.9726573715
+98 Tulsa -44.2917026605
+99 Illinois -44.7569645482
+100 Kent State -46.3212611356
+101 South Florida -51.1158663628
+102 UAB -57.3395709169
+103 Georgia State -66.6964641741
+104 Hawaii -76.0911103552
+105 Colorado State -76.1404941737
+106 Cincinnati -80.2706927385
+107 Old Dominion -81.1317197299
+108 Western Michigan -85.6509040548
+109 UTSA -89.6990149243
+110 Florida International -94.0609646818
+111 Akron -113.097638655
+112 Connecticut -117.217611359
+113 Southern Miss -131.612852201
+114 Wyoming -188.673065381
+115 Kentucky -206.488265469
+116 Purdue -210.049100205
+117 Idaho -226.777110936
+118 New Mexico -228.988298554
+119 Miami (OH) -240.213895994
+120 Air Force -292.840585561
+121 Temple -305.671978073
+122 Army -345.033913993
+123 Louisiana Tech -375.601836851
+124 UTEP -406.157528088
+125 New Mexico State -486.387259913
+126 Eastern Michigan -621.426454028
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+10 2013
+Optimization terminated successfully.
+         Current function value: -114959717607076748703927072415558099487686656.000000
+         Iterations: 30
+         Function evaluations: 186659
+1 Baylor 1246.48197766
+2 Florida State 1016.81098468
+3 Miami (FL) 1016.81098468
+4 Oregon 1016.81098468
+5 Northern Illinois 1016.81098468
+6 Ohio State 1007.64149941
+7 Alabama 1006.51994391
+8 Clemson 965.936978837
+9 Buffalo 896.601162077
+10 Auburn 58.4933199045
+11 Texas A&M 58.2747049238
+12 Missouri 57.8047436239
+13 Ole Miss 57.6212892712
+14 LSU 57.4485962077
+15 Georgia 57.3129725954
+16 South Carolina 56.8318088083
+17 Florida 56.3541383037
+18 Tennessee 56.1143316852
+19 Vanderbilt 56.114076445
+20 UCF 47.9831771625
+21 Louisville 39.132999402
+22 Stanford 35.9221773028
+23 Oregon State 35.2974223746
+24 UCLA 34.5252870335
+25 Arizona State 34.4317623357
+26 Notre Dame 34.2964327849
+27 Oklahoma 34.2276898727
+28 Washington State 34.0003301944
+29 Michigan 33.737362295
+30 Michigan State 33.6368922388
+31 Washington 33.5293505033
+32 Texas 33.5095383374
+33 USC 33.3481169026
+34 Utah 33.1300668112
+35 Arizona 33.0093298186
+36 Iowa 32.7080546921
+37 Penn State 32.4809052684
+38 Brigham Young 32.4439826133
+39 Texas Tech 32.3537885644
+40 Wisconsin 32.283946628
+41 Virginia Tech 32.062809407
+42 Colorado 31.8717673864
+43 Georgia Tech 31.6186646371
+44 Minnesota 31.3959559335
+45 Houston 31.329494646
+46 Duke 31.2522689043
+47 Fresno State 31.2362357535
+48 Oklahoma State 31.0436998931
+49 Indiana 30.8391988784
+50 Kansas State 30.7570198797
+51 Pittsburgh 30.5702091994
+52 Rutgers 30.164683558
+53 Northwestern 30.1369970461
+54 Toledo 30.0925828974
+55 Ball State 30.0600800848
+56 Maryland 29.9829154862
+57 Navy 29.8516428717
+58 Arkansas 29.8355555657
+59 Mississippi State 29.8209156556
+60 West Virginia 29.7409762279
+61 Syracuse 29.7178685064
+62 Tulane 29.5093801426
+63 Louisiana-Lafayette 29.508495697
+64 East Carolina 29.4018054241
+65 North Carolina 29.1798377241
+66 Virginia 29.1401046798
+67 TCU 29.1381369469
+68 Boston College 29.0328466135
+69 Wake Forest 28.9388118328
+70 UNLV 28.9365602302
+71 Louisiana-Monroe 28.8555198274
+72 South Alabama 28.7706240549
+73 North Texas 28.7168534671
+74 Western Kentucky 28.6847633583
+75 Troy 28.5981305141
+76 Texas State 28.3059432629
+77 Ohio 28.0907191075
+78 North Carolina State 27.885261403
+79 Southern Methodist 27.6561497419
+80 Central Michigan 27.4650804336
+81 Arkansas State 27.3649627954
+82 Middle Tennessee 27.1327607201
+83 Memphis 26.654479051
+84 Rice 10.2310054064
+85 Marshall 7.96762713514
+86 Bowling Green -5.17737215434
+87 Nebraska -5.70628765171
+88 Boise State -5.81528235879
+89 Georgia State -7.77924904054
+90 San Diego State -10.8019708814
+91 Iowa State -10.9888875032
+92 Florida Atlantic -22.2543381921
+93 Kentucky -23.1218357095
+94 California -23.5116059223
+95 Akron -36.6942344283
+96 Kansas -37.8673701495
+97 Illinois -41.1846569784
+98 Nevada -41.3819941844
+99 Utah State -42.2081756568
+100 UTSA -42.9392417287
+101 Tulsa -56.5669497338
+102 Kent State -60.6508220775
+103 South Florida -71.1935674433
+104 San Jose State -79.7034701982
+105 Old Dominion -97.5249963269
+106 Colorado State -109.53213311
+107 Cincinnati -121.9776376
+108 Wyoming -147.789093215
+109 UAB -208.575146257
+110 Western Michigan -211.211514883
+111 Massachusetts -261.004087278
+112 Idaho -278.155428281
+113 New Mexico -280.884494808
+114 Miami (OH) -304.44307755
+115 Purdue -352.791833471
+116 Temple -356.123879174
+117 Army -438.924203448
+118 Air Force -444.019650119
+119 Louisiana Tech -507.18367876
+120 UTEP -636.134096401
+121 Hawaii -657.184454878
+122 Florida International -667.399021271
+123 New Mexico State -685.016060074
+124 Eastern Michigan -758.724701319
+125 Southern Miss -949.761993272
+126 Connecticut -1123.6385638
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+11 2013
+Optimization terminated successfully.
+         Current function value: -1774547627081681180726757921016170343632470016.000000
+         Iterations: 29
+         Function evaluations: 176814
+1 Baylor 1765.98020421
+2 Alabama 1368.59756976
+3 Florida State 1351.66538833
+4 Oregon 1351.66538833
+5 Northern Illinois 1351.66538833
+6 Ohio State 1350.85914079
+7 Miami (FL) 1314.43626029
+8 Clemson 1314.15882131
+9 Buffalo 1237.42525207
+10 Auburn 62.5337186656
+11 Texas A&M 62.3315501638
+12 Missouri 61.9870620504
+13 Ole Miss 61.6744302445
+14 Georgia 61.5116079038
+15 LSU 61.4508825598
+16 South Carolina 60.8888239508
+17 Vanderbilt 60.2227460314
+18 Florida 59.9547444547
+19 Tennessee 59.8495420164
+20 UCF 50.2622552457
+21 Louisville 39.6356169738
+22 Stanford 34.7646994037
+23 Arizona State 33.9714043645
+24 UCLA 33.6605892817
+25 Notre Dame 33.4359706138
+26 Michigan State 33.1309395548
+27 Oregon State 33.0913285495
+28 Oklahoma 32.9292184924
+29 USC 32.8887665981
+30 Washington 32.8248826773
+31 Wisconsin 32.7649085355
+32 Washington State 32.4420201817
+33 Texas 32.2450178909
+34 Arizona 32.1935835848
+35 Utah 32.1196271878
+36 Michigan 32.0423409736
+37 Iowa 31.4554354995
+38 Brigham Young 31.2896727777
+39 Colorado 30.7804679162
+40 Penn State 30.7188110975
+41 Minnesota 30.6924554817
+42 Fresno State 30.284755252
+43 Houston 30.1635366232
+44 Oklahoma State 30.0029950554
+45 Georgia Tech 29.9735802268
+46 Nebraska 29.7251981165
+47 Virginia Tech 29.5725146477
+48 Kansas State 29.3953342873
+49 Texas Tech 29.3359944475
+50 Boston College 29.1660515935
+51 Duke 29.1146265092
+52 Rutgers 28.8307760812
+53 Boise State 28.7240940209
+54 Indiana 28.6697342719
+55 Northwestern 28.5577260311
+56 Ball State 28.3954566451
+57 Maryland 28.3235122424
+58 Arkansas 28.2941635229
+59 North Carolina 28.2939298972
+60 West Virginia 28.267131464
+61 Pittsburgh 28.2297925751
+62 Syracuse 28.1932495437
+63 Toledo 28.1869721322
+64 Mississippi State 28.1005583325
+65 East Carolina 27.9796339563
+66 Louisiana-Lafayette 27.757777259
+67 Navy 27.7023808591
+68 Utah State 27.6843021326
+69 North Texas 27.5784468748
+70 Virginia 27.2728799682
+71 Wake Forest 27.2521694712
+72 Tulane 27.0988760097
+73 Ohio 27.0780374869
+74 Louisiana-Monroe 27.0463355301
+75 Illinois 26.9243621665
+76 San Jose State 26.8600719556
+77 Middle Tennessee 26.6334566935
+78 Rice 26.5670531112
+79 TCU 26.500339539
+80 Western Kentucky 26.4761256586
+81 Troy 26.1981211066
+82 UNLV 26.1404353781
+83 Texas State 26.0807144698
+84 Arkansas State 26.0780784059
+85 South Alabama 25.9625340008
+86 North Carolina State 25.9557748746
+87 Marshall 25.6890754409
+88 Florida Atlantic 25.6880915919
+89 Central Michigan 25.5470579592
+90 Southern Methodist 25.3229415993
+91 South Florida 25.1163335135
+92 Cincinnati 24.5735832786
+93 Memphis 24.3894126188
+94 Iowa State 1.5282631155
+95 Bowling Green 0.949531339577
+96 UTSA 0.0119988271089
+97 San Diego State -7.34282504038
+98 Tulsa -25.2999646035
+99 Akron -44.4429522218
+100 Colorado State -50.1307154425
+101 Kentucky -56.9517863294
+102 Nevada -59.0391842789
+103 Kent State -82.2019118523
+104 Wyoming -89.3343180942
+105 Hawaii -111.112836918
+106 Air Force -127.500155342
+107 Idaho -134.79628845
+108 Temple -178.459435951
+109 Kansas -196.629723702
+110 Western Michigan -210.112964096
+111 Army -236.633977767
+112 Massachusetts -258.000107903
+113 Miami (OH) -282.748895226
+114 Louisiana Tech -385.959099084
+115 UAB -437.753641071
+116 Florida International -570.457021205
+117 California -630.187523157
+118 Old Dominion -630.187523157
+119 Georgia State -634.423590711
+120 Connecticut -634.423590711
+121 Purdue -634.423590711
+122 Southern Miss -845.377627121
+123 New Mexico -913.382491769
+124 UTEP -945.781554132
+125 Eastern Michigan -957.880691703
+126 New Mexico State -1319.18841225
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+12 2013
+Optimization terminated successfully.
+         Current function value: -203755911313191623024289015883801856432662380544.000000
+         Iterations: 29
+         Function evaluations: 173603
+1 Baylor 913.415577014
+2 Alabama 799.02141192
+3 Florida State 797.770160989
+4 Northern Illinois 797.770160989
+5 Ohio State 791.492262892
+6 Clemson 760.22482864
+7 Buffalo 724.622930074
+8 Auburn 37.4860143279
+9 Texas A&M 37.2867626198
+10 Stanford 37.0340240582
+11 Oregon 36.7319485361
+12 Missouri 36.6320583999
+13 Ole Miss 36.6035122385
+14 Georgia 36.1353575591
+15 LSU 36.1045645739
+16 South Carolina 35.843014505
+17 Arizona State 35.6021076484
+18 UCLA 35.4180280965
+19 Vanderbilt 35.2271119315
+20 Wisconsin 34.8992947995
+21 UCF 34.69232943
+22 Oregon State 34.5788819906
+23 Washington 34.426272613
+24 USC 34.1919070054
+25 Michigan State 34.1086982579
+26 Miami (FL) 34.0007988539
+27 Tennessee 33.9676206777
+28 Washington State 33.8398262662
+29 Notre Dame 33.7892152118
+30 Oklahoma 33.7823991783
+31 Texas 33.5617482684
+32 Utah 33.529041092
+33 Florida 33.4887338772
+34 Arizona 33.4762599775
+35 Iowa 33.3757125692
+36 Virginia Tech 33.2777144199
+37 Nebraska 33.0259369168
+38 Minnesota 33.015852958
+39 Brigham Young 32.9885972204
+40 Michigan 32.8088790476
+41 Louisville 32.7937005625
+42 Georgia Tech 32.7701991128
+43 Duke 32.3105540106
+44 Colorado 32.1640873313
+45 Pittsburgh 32.1356435366
+46 Boston College 32.1034202483
+47 Fresno State 32.0340977174
+48 Houston 31.9114809241
+49 Penn State 31.779043931
+50 Oklahoma State 31.6005162408
+51 Kansas State 31.44614173
+52 North Carolina 31.2560148548
+53 Northwestern 31.0919991719
+54 Ball State 30.7867590509
+55 Indiana 30.7628756597
+56 East Carolina 30.6743528997
+57 Syracuse 30.551641903
+58 Toledo 30.5314821074
+59 Boise State 30.4708519568
+60 Rutgers 30.4261502153
+61 Texas Tech 30.3273538275
+62 Navy 30.321077344
+63 Arkansas 30.1037381949
+64 North Texas 30.0246238067
+65 San Diego State 30.017747043
+66 Louisiana-Lafayette 29.9423467279
+67 Mississippi State 29.8161338887
+68 Maryland 29.6808730974
+69 West Virginia 29.6389273989
+70 Ohio 29.5692755716
+71 Rice 29.5065605988
+72 Virginia 29.4874213649
+73 Utah State 29.4599501784
+74 Middle Tennessee 29.349495584
+75 Wake Forest 29.0787207984
+76 Marshall 28.8597072561
+77 Illinois 28.7739315094
+78 Tulane 28.7681492773
+79 Arkansas State 28.6856996583
+80 Louisiana-Monroe 28.4761535826
+81 Western Kentucky 28.4165784503
+82 Florida Atlantic 28.3400768017
+83 UTSA 28.2337804554
+84 San Jose State 28.1000605947
+85 Troy 28.0744403261
+86 South Alabama 27.9350921588
+87 North Carolina State 27.9291455303
+88 Texas State 27.827688159
+89 South Florida 27.7827218996
+90 TCU 27.6822196118
+91 UNLV 27.4386204546
+92 Cincinnati 27.3377401332
+93 Central Michigan 27.332760725
+94 Memphis 26.5103955991
+95 Southern Methodist 26.3876072072
+96 Bowling Green 17.7927551191
+97 Iowa State 16.9830590675
+98 Tulsa 6.39840999972
+99 Old Dominion 4.25384378287
+100 Colorado State -2.03850864217
+101 Kentucky -6.08190304636
+102 Akron -8.28236341401
+103 Purdue -9.24955150238
+104 Wyoming -10.4967189578
+105 Nevada -16.5682102102
+106 Idaho -20.7920529594
+107 New Mexico -20.7969789964
+108 Kansas -22.0248309149
+109 Connecticut -22.5520573631
+110 California -22.682250594
+111 Georgia State -28.1767526043
+112 UAB -30.0116396096
+113 Temple -31.086982092
+114 Air Force -31.0975061919
+115 Kent State -34.3633848422
+116 Army -41.3721630032
+117 Eastern Michigan -50.9086484656
+118 Hawaii -52.2327287923
+119 Western Michigan -60.4495380866
+120 Louisiana Tech -73.7253290478
+121 Massachusetts -102.16448733
+122 Florida International -113.88853044
+123 UTEP -121.63525893
+124 Miami (OH) -145.305567103
+125 Southern Miss -153.151740272
+126 New Mexico State -166.030695708
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+13 2013
+Optimization terminated successfully.
+         Current function value: -172375098411288996875940549322126586395263762432.000000
+         Iterations: 18
+         Function evaluations: 104782
+1 Ohio State 180.24639628
+2 Alabama 172.681268271
+3 Florida State 169.585683521
+4 Baylor 169.585683521
+5 Northern Illinois 169.585683521
+6 Clemson 132.079116493
+7 Auburn 37.1827122456
+8 Texas A&M 36.8372397587
+9 Ole Miss 36.0779084459
+10 Missouri 35.9189577676
+11 Oregon 35.6125973814
+12 LSU 35.5029619481
+13 Georgia 35.3316174985
+14 Stanford 35.326802689
+15 South Carolina 35.2407222118
+16 Arizona State 35.0422072507
+17 Vanderbilt 34.5441934011
+18 UCLA 34.5317742982
+19 Wisconsin 34.4761994189
+20 UCF 34.2963127362
+21 Michigan State 34.2081402386
+22 USC 34.1138465334
+23 Oregon State 33.7010307548
+24 Notre Dame 33.5391982065
+25 Washington State 33.4865472429
+26 Oklahoma 33.3361177238
+27 Iowa 33.1988071668
+28 Tennessee 33.139098432
+29 Washington 33.0433038834
+30 Oklahoma State 32.8764582451
+31 Minnesota 32.8246898532
+32 Michigan 32.7445641851
+33 Louisville 32.7269523715
+34 Utah 32.6682083093
+35 Texas 32.5916408108
+36 Nebraska 32.559289264
+37 Florida 32.518749698
+38 Miami (FL) 32.4134833297
+39 Arizona 32.3083345978
+40 Brigham Young 32.1401987133
+41 Duke 32.1359684243
+42 Georgia Tech 31.9954049924
+43 Virginia Tech 31.9766555886
+44 Kansas State 31.7786590437
+45 Penn State 31.756710132
+46 Boston College 31.5535393826
+47 Pittsburgh 31.1230834471
+48 North Carolina 31.0450046353
+49 Mississippi State 30.9776054406
+50 Houston 30.9206150841
+51 Indiana 30.901823812
+52 Colorado 30.8792569707
+53 Texas Tech 30.8671571025
+54 Toledo 30.8466568071
+55 Ball State 30.7415316276
+56 Northwestern 30.6990088085
+57 Maryland 30.5343884626
+58 Syracuse 30.5128999451
+59 Fresno State 30.4752710902
+60 Navy 30.2988074757
+61 East Carolina 30.2913653264
+62 Louisiana-Lafayette 29.7583151378
+63 North Texas 29.6294122459
+64 West Virginia 29.4642577383
+65 Rice 29.4593195464
+66 Virginia 29.4527310043
+67 Buffalo 29.4463972357
+68 Illinois 29.2877196743
+69 Arkansas 29.1487237439
+70 Middle Tennessee 29.0831195055
+71 Wake Forest 29.0755746018
+72 TCU 28.9687976177
+73 Arkansas State 28.9675681529
+74 Boise State 28.8891344441
+75 Bowling Green 28.8301525811
+76 Rutgers 28.6993540344
+77 Tulane 28.5634135815
+78 Cincinnati 28.5132945788
+79 Louisiana-Monroe 28.4265276067
+80 Kansas 28.4166171686
+81 Western Kentucky 28.3518078762
+82 Marshall 28.2803195018
+83 Troy 28.1356843679
+84 Ohio 28.0460864127
+85 Florida Atlantic 27.995292033
+86 UTSA 27.9892846912
+87 San Diego State 27.9682462517
+88 South Alabama 27.7984129618
+89 Memphis 27.7206282625
+90 Utah State 27.541661594
+91 Texas State 27.4647301389
+92 North Carolina State 27.3373641553
+93 South Florida 27.3063267182
+94 Southern Methodist 27.2871563488
+95 Iowa State 26.8097822346
+96 Central Michigan 26.1643183978
+97 UNLV 25.7142072904
+98 San Jose State 25.1658333193
+99 Tulsa 24.9622100499
+100 Nevada 24.1448276052
+101 Colorado State 24.0208851687
+102 Old Dominion 14.9594608256
+103 Wyoming 12.4650673389
+104 Akron 3.32421345678
+105 New Mexico 0.54873219942
+106 Idaho 0.497285831794
+107 California -5.38488541271
+108 Purdue -7.23898803436
+109 Connecticut -8.74424737184
+110 Kentucky -8.8974092021
+111 UAB -10.0437452651
+112 Air Force -11.3310836391
+113 Georgia State -11.3316394792
+114 Temple -11.3572930471
+115 Hawaii -15.2163831894
+116 Kent State -20.8596620148
+117 Army -23.139375249
+118 Eastern Michigan -34.0980654382
+119 Western Michigan -45.0575389494
+120 Louisiana Tech -58.9369293138
+121 Massachusetts -80.1626815069
+122 UTEP -92.5553564521
+123 Miami (OH) -117.093802622
+124 Florida International -127.792522012
+125 New Mexico State -129.449945208
+126 Southern Miss -163.031788203
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+14 2013
+Optimization terminated successfully.
+         Current function value: -13680989490242686295808485830905898988278139322368.000000
+         Iterations: 18
+         Function evaluations: 102706
+1 Alabama 179.848611439
+2 Florida State 169.248649619
+3 Northern Illinois 169.248649619
+4 Ohio State 155.15921094
+5 Clemson 126.579358301
+6 Auburn 36.8827006354
+7 Missouri 36.4450059361
+8 LSU 35.9493514068
+9 Texas A&M 35.7601341087
+10 Ole Miss 35.5335641726
+11 Georgia 35.4884188407
+12 Arizona State 35.4843967398
+13 South Carolina 35.3439530991
+14 Stanford 35.3406174915
+15 Wisconsin 35.0394811026
+16 Oregon 34.7951390327
+17 Vanderbilt 34.580583741
+18 Michigan State 34.4874348956
+19 UCLA 34.399731678
+20 USC 34.3698896125
+21 UCF 34.1239010583
+22 Baylor 33.8778362187
+23 Oklahoma State 33.8741439486
+24 Washington State 33.8130682144
+25 Iowa 33.783225619
+26 Notre Dame 33.7696209263
+27 Washington 33.7468125687
+28 Oregon State 33.4854532715
+29 Arizona 33.2954300877
+30 Oklahoma 33.1790418997
+31 Minnesota 32.8129886468
+32 Tennessee 32.8028014235
+33 Nebraska 32.7765102597
+34 Texas 32.65207768
+35 Michigan 32.6083336723
+36 Utah 32.5755659587
+37 Florida 32.4724423666
+38 Miami (FL) 32.4307772604
+39 Louisville 32.3115250701
+40 Duke 32.191111456
+41 Virginia Tech 31.9972455678
+42 Georgia Tech 31.9430608028
+43 Brigham Young 31.845407829
+44 Boston College 31.8021896744
+45 Mississippi State 31.6928833185
+46 Kansas State 31.6407399065
+47 Penn State 31.4523067067
+48 Pittsburgh 31.310190902
+49 Colorado 31.2311723594
+50 North Carolina 31.0566324446
+51 Indiana 30.9330529298
+52 Texas Tech 30.8479843544
+53 Fresno State 30.8461578999
+54 Toledo 30.7451193281
+55 Northwestern 30.5524374872
+56 Ball State 30.4263845332
+57 Navy 30.4049359577
+58 East Carolina 30.216786001
+59 Maryland 30.0852086172
+60 Syracuse 30.0364147908
+61 Houston 29.9410631188
+62 Louisiana-Lafayette 29.8266050966
+63 Illinois 29.6715044028
+64 San Diego State 29.4979011352
+65 Cincinnati 29.418343092
+66 West Virginia 29.2453827104
+67 Virginia 29.226443288
+68 Buffalo 29.1632533476
+69 Arkansas 29.1442325251
+70 TCU 29.0707990409
+71 Arkansas State 28.9951271521
+72 Rutgers 28.9372254423
+73 Bowling Green 28.9360749722
+74 Rice 28.9224113206
+75 Middle Tennessee 28.7780005304
+76 Wake Forest 28.6639510666
+77 North Texas 28.6610880168
+78 Western Kentucky 28.6088398105
+79 Tulane 28.3998122572
+80 UTSA 28.3621668001
+81 South Alabama 28.2639142871
+82 Troy 28.2465971433
+83 Iowa State 28.178893054
+84 Boise State 28.166124517
+85 Marshall 28.0538372275
+86 Louisiana-Monroe 28.041818377
+87 Southern Methodist 27.9235853542
+88 Memphis 27.8203910431
+89 Florida Atlantic 27.703913812
+90 Kansas 27.6406965621
+91 Ohio 27.2251709237
+92 Texas State 27.213522836
+93 Utah State 27.1830529895
+94 South Florida 26.9169605395
+95 North Carolina State 26.8510860524
+96 Akron 26.4740175849
+97 Kent State 26.2912639268
+98 Central Michigan 25.6978210337
+99 UNLV 25.4332929821
+100 Tulsa 25.1442719919
+101 San Jose State 25.0117986044
+102 Nevada 23.9937497049
+103 Colorado State 23.9028254301
+104 Old Dominion 14.3982550825
+105 Wyoming 11.9813408434
+106 Connecticut 6.92861206803
+107 New Mexico -0.281995884432
+108 Idaho -0.338950048371
+109 Kentucky -6.85166938002
+110 UAB -8.92763731955
+111 California -9.55675491243
+112 Purdue -11.8047284472
+113 Air Force -12.5387974726
+114 Temple -12.5677751268
+115 Georgia State -24.4891180135
+116 Army -24.7818654025
+117 Hawaii -27.3503662084
+118 Eastern Michigan -36.288195838
+119 Western Michigan -47.7946539515
+120 Louisiana Tech -60.4704986504
+121 Massachusetts -78.8321485332
+122 UTEP -94.5445035736
+123 Miami (OH) -118.217930116
+124 New Mexico State -130.322427817
+125 Florida International -132.245209093
+126 Southern Miss -170.635138267
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+15 2013
+Optimization terminated successfully.
+         Current function value: -339819828985805395183489032947819050172416.000000
+         Iterations: 24
+         Function evaluations: 137214
+1 Ohio State 748.007505946
+2 Florida State 739.812753548
+3 Northern Illinois 739.812753548
+4 Auburn 37.1441783457
+5 Alabama 36.9746704918
+6 Missouri 36.5823317604
+7 South Carolina 35.9392233073
+8 Clemson 35.6963553698
+9 Stanford 35.5568429292
+10 Arizona State 35.5091713528
+11 LSU 35.4628245041
+12 Georgia 35.2229008217
+13 Texas A&M 35.1339192942
+14 Oregon 35.0703846617
+15 Michigan State 35.0696654327
+16 UCLA 34.8328445739
+17 UCF 34.7667017666
+18 Oklahoma State 34.6081536565
+19 Ole Miss 34.5577506838
+20 Baylor 34.3692329013
+21 Vanderbilt 34.3462157258
+22 Iowa 34.2662295145
+23 Wisconsin 34.1951228325
+24 Washington 34.1263965624
+25 USC 34.0939122599
+26 Notre Dame 33.8739637211
+27 Mississippi State 33.6485239225
+28 Washington State 33.5417480029
+29 Oklahoma 33.4917963589
+30 Oregon State 33.3152641702
+31 Arizona 33.2609170154
+32 Minnesota 33.2177613204
+33 Nebraska 33.1961058639
+34 Michigan 33.1793315828
+35 Texas 33.016902519
+36 Tennessee 32.8361219128
+37 Miami (FL) 32.7509744881
+38 Penn State 32.7081361312
+39 Utah 32.6654382407
+40 Louisville 32.6639971975
+41 Duke 32.5468806798
+42 Florida 32.4690927776
+43 Georgia Tech 32.1388302013
+44 Virginia Tech 32.0978726704
+45 Brigham Young 32.0396205071
+46 Kansas State 31.9579552332
+47 Indiana 31.5257985035
+48 Pittsburgh 31.4336255404
+49 Northwestern 31.3842560548
+50 Boston College 31.1815606984
+51 Texas Tech 31.0414202315
+52 Syracuse 30.9821556683
+53 North Carolina 30.9339204752
+54 Navy 30.7131027723
+55 Ball State 30.6999322259
+56 Colorado 30.4898433425
+57 Maryland 30.3707457913
+58 Toledo 30.3211541456
+59 Bowling Green 30.176353231
+60 Houston 30.1653172418
+61 East Carolina 29.8173173139
+62 Rice 29.7839863829
+63 Illinois 29.679022748
+64 Louisiana-Lafayette 29.6110966826
+65 Fresno State 29.5412736509
+66 Marshall 29.3942055382
+67 TCU 29.3860406203
+68 North Texas 29.3687031112
+69 Western Kentucky 29.3606310654
+70 Virginia 29.3382059778
+71 Iowa State 29.2978841726
+72 Cincinnati 29.2405899034
+73 Buffalo 29.2403823703
+74 Wake Forest 29.2306419967
+75 UTSA 29.1443359376
+76 Utah State 29.1308523374
+77 Middle Tennessee 29.1243375518
+78 West Virginia 29.0613621999
+79 Arkansas State 28.9551564095
+80 Louisiana-Monroe 28.9126226622
+81 Troy 28.8602935675
+82 Tulane 28.8517116361
+83 South Alabama 28.8122316004
+84 San Diego State 28.7843212452
+85 Boise State 28.7439561436
+86 Arkansas 28.6433809918
+87 Akron 28.604686323
+88 Ohio 28.4589546697
+89 UNLV 28.2837253811
+90 Florida Atlantic 28.2634667597
+91 San Jose State 28.1794005919
+92 Kansas 28.1445019492
+93 Rutgers 27.8454387552
+94 Southern Methodist 27.7761907206
+95 North Carolina State 27.5983960021
+96 Texas State 27.5394400002
+97 Kent State 27.5057637635
+98 Central Michigan 27.2743255001
+99 South Florida 27.2273471211
+100 Memphis 26.9203917249
+101 Connecticut 26.7503072393
+102 Tulsa 26.6761413679
+103 Colorado State 26.5810516746
+104 Nevada 26.5394982353
+105 Old Dominion 25.9119810432
+106 Wyoming 25.3318406129
+107 Temple 24.3531944744
+108 New Mexico 24.0798633731
+109 Hawaii 23.077528918
+110 Idaho 22.7775680019
+111 Air Force 22.5089995069
+112 New Mexico State 21.9216252714
+113 UTEP 21.5391140554
+114 Army 21.519962797
+115 Louisiana Tech 21.508062533
+116 Southern Miss 12.674670836
+117 Florida International 12.6735887043
+118 UAB 12.6735477802
+119 California -19.9092933294
+120 Eastern Michigan -20.7228030467
+121 Kentucky -22.6083322429
+122 Western Michigan -58.8194151542
+123 Purdue -86.4592491954
+124 Massachusetts -106.690476029
+125 Georgia State -138.965067589
+126 Miami (OH) -166.653914622
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
+
+16 2013
+Optimization terminated successfully.
+         Current function value: -6222509251928290089734681871703133388800.000000
+         Iterations: 27
+         Function evaluations: 154896
+1 Florida State 682.701777732
+2 Auburn 37.4037791483
+3 Alabama 36.9980873673
+4 Missouri 36.1454039047
+5 South Carolina 35.7129111124
+6 Stanford 35.6799626287
+7 Clemson 35.5050509135
+8 LSU 35.371034913
+9 Michigan State 35.3394244237
+10 Ohio State 35.1869278216
+11 Arizona State 35.1333191844
+12 Georgia 35.0554134212
+13 Texas A&M 34.9904781193
+14 Oregon 34.9868012076
+15 UCLA 34.684209296
+16 UCF 34.5861934328
+17 Baylor 34.5004846695
+18 Ole Miss 34.3969794413
+19 Vanderbilt 34.1680029936
+20 Washington 33.9992299036
+21 USC 33.9777384777
+22 Oklahoma 33.9763526325
+23 Oklahoma State 33.9026295626
+24 Notre Dame 33.855823736
+25 Wisconsin 33.5257862983
+26 Mississippi State 33.4465037611
+27 Washington State 33.4211681479
+28 Iowa 33.2207740269
+29 Oregon State 33.1974509872
+30 Arizona 33.1266082534
+31 Texas 32.7815129553
+32 Northern Illinois 32.775094813
+33 Minnesota 32.7494295377
+34 Michigan 32.7434025448
+35 Nebraska 32.7424991453
+36 Louisville 32.7173491092
+37 Tennessee 32.7147232914
+38 Miami (FL) 32.6309966441
+39 Utah 32.5351799377
+40 Duke 32.4357423283
+41 Florida 32.3638696101
+42 Penn State 32.3013430253
+43 Georgia Tech 32.0006074825
+44 Virginia Tech 31.9692629932
+45 Kansas State 31.8601596274
+46 Brigham Young 31.8551771868
+47 Indiana 31.4383560269
+48 Pittsburgh 31.3223225751
+49 Bowling Green 31.1703030783
+50 Boston College 31.0475991676
+51 Northwestern 30.9809121456
+52 Texas Tech 30.9632085206
+53 North Carolina 30.8052646829
+54 Syracuse 30.8007166084
+55 Navy 30.7197943762
+56 Ball State 30.6155280018
+57 Colorado 30.5019820562
+58 Toledo 30.4843711891
+59 Maryland 30.2567349907
+60 Houston 30.1655135827
+61 Rice 30.0075244019
+62 Fresno State 29.7672652364
+63 East Carolina 29.67949663
+64 Buffalo 29.5923681264
+65 Illinois 29.4591816363
+66 North Texas 29.3807109687
+67 Western Kentucky 29.3220642681
+68 TCU 29.3168093065
+69 Louisiana-Lafayette 29.2403166127
+70 Iowa State 29.2207633071
+71 Virginia 29.2198187844
+72 Cincinnati 29.1535581835
+73 Wake Forest 29.1286818065
+74 UTSA 29.121885248
+75 South Alabama 29.1164750561
+76 Marshall 29.097168901
+77 West Virginia 28.986301079
+78 Middle Tennessee 28.9551715433
+79 Arkansas State 28.891536511
+80 Louisiana-Monroe 28.8765537326
+81 Tulane 28.8671636307
+82 Troy 28.8219855232
+83 San Diego State 28.7673370074
+84 Utah State 28.7408218292
+85 Akron 28.6861909936
+86 Boise State 28.6622599247
+87 Arkansas 28.5878220391
+88 Ohio 28.5771114712
+89 UNLV 28.2066190254
+90 Florida Atlantic 28.1348548645
+91 Kansas 28.1150559046
+92 San Jose State 28.0990093434
+93 Rutgers 28.0984419198
+94 Southern Methodist 27.7135002138
+95 Kent State 27.7134916005
+96 North Carolina State 27.5124092896
+97 Texas State 27.5070288344
+98 Central Michigan 27.2480449464
+99 Connecticut 27.067427761
+100 South Florida 26.9004803297
+101 Tulsa 26.6398569003
+102 Colorado State 26.4951215101
+103 Nevada 26.4794141709
+104 Memphis 26.3360063596
+105 Old Dominion 25.8031874069
+106 Wyoming 25.2467859292
+107 Temple 24.2515791973
+108 New Mexico 23.9938434637
+109 Hawaii 22.9903981341
+110 Idaho 22.6866051936
+111 Air Force 22.4202485374
+112 New Mexico State 21.8336349365
+113 UTEP 21.4531993958
+114 Army 21.4247815922
+115 Louisiana Tech 21.4197858685
+116 Southern Miss 13.6605008936
+117 UAB 13.6583430635
+118 Florida International 13.6577779657
+119 Kentucky -0.996047448536
+120 Purdue -7.2648913502
+121 Georgia State -7.67773309243
+122 California -13.9255524332
+123 Eastern Michigan -16.0757621114
+124 Western Michigan -55.2187507506
+125 Massachusetts -94.7187649085
+126 Miami (OH) -147.112956221
+127 Albany None
+128 Tennessee-Martin None
+129 Lamar None
+130 Richmond None
+131 Grambling State None
+132 Sam Houston State None
+133 Arkansas-Pine Bluff None
+134 Howard None
+135 Cal Poly None
+136 North Dakota State None
+137 Missouri State None
+138 Idaho State None
+139 Stephen F. Austin None
+140 Western Illinois None
+141 Tennessee Tech None
+142 Central Arkansas None
+143 Eastern Washington None
+144 Northern Arizona None
+145 NC Central None
+146 Southern Illinois None
+147 Indiana State None
+148 Southeastern Louisiana None
+149 Sacramento State None
+150 Delaware None
+151 Jackson State None
+152 Appalachian State None
+153 Nicholls State None
+154 Montana State None
+155 Coastal Carolina None
+156 South Dakota None
+157 Morgan State None
+158 William & Mary None
+159 Southeast Missouri State None
+160 Murray State None
+161 Wofford None
+162 Wagner None
+163 Illinois State None
+164 Colgate None
+165 Northern Iowa None
+166 Villanova None
+167 Towson None
+168 Austin Peay None
+169 Jacksonville State None
+170 Liberty None
+171 Gardner-Webb None
+172 Norfolk State None
+173 Western Carolina None
+174 Eastern Kentucky None
+175 Savannah State None
+176 Southern Utah None
+177 Abilene Christian None
+178 Campbell None
+179 Southern University None
+180 Stony Brook None
+181 Presbyterian None
+182 Northern Colorado None
+183 Florida A&M None
+184 Virginia Military Institute None
+185 UC Davis None
+186 Furman None
+187 New Hampshire None
+188 Charleston Southern None
+189 James Madison None
+190 Citadel None
+191 Alabama A&M None
+192 Alabama State None
+193 Chattanooga None
+194 Georgia Southern None
+195 Alcorn State None
+196 Rhode Island None
+197 Northwestern State None
+198 Eastern Illinois None
+199 McNeese State None
+200 Fordham None
+201 Bethune-Cookman None
+202 South Dakota State None
+203 Weber State None
+204 South Carolina State None
+205 Prairie View A&M None
+206 Portland State None
+207 Samford None
+208 Youngstown State None
+209 Maine None
+210 Elon None
